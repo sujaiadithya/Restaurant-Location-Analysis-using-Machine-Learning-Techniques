@@ -1,0 +1,722 @@
+id,name,address1,address2,city,zip_code,review_count,categories,rating,price
+2182390,Saucy Asian,5614 Bay Street,210, San Francisco,94608,22,"Asian, B, B, Q",5,$
+0031423dca,Perilla - Irving St.,836 Irving Street, , San Francisco,94122,100+,"Vietnamese, Noodles, Healthy, Fast",0,$
+00da776500,Begoni Bistro,615 Jackson St, , San Francisco,94133,new,"Chinese, Asian, Noodles, Dumpling",0,$
+00f369d788,Royal Kitchen Indian Restaurant,175 98th Ave, , San Francisco,94603,91,"Indian, Vegetarian",5,$
+0161dacdc3,Ariel's Breakfast,2845 Mission St, , San Francisco,94110,51,"Mexican, Latin",5,$
+01dcc92ebe,Two Sons' Sandwiches,2249 17th St, , San Francisco,94110,36,"Deli, Sandwiches, Salads, Cafe, American, Group",5,$
+01e89fdba9,Izumi Kaiten Sushi,1737 Post Street, , San Francisco,94115,13,"Sushi, Asian, Japanese, Group",4,$
+02203eaa3f,Zen Yai Thai Restaurant,771 Ellis St, , San Francisco,94109,53,"Asian, Thai, Noodles",5,$
+02946fa0da,Pho Huyen & Banh Mi,1612 International Boulevard, , San Francisco,94606,82,"Vietnamese, Noodles, Pho",5,$
+0308b0463d,Isabella Restaurant,3263 Mission Street, , San Francisco,94110,11,Latin,5,$
+04252c8138,Healthyish Gluten Free Bowls,2990 24th Street, , San Francisco,94110,new,Gluten,0,$
+506174318,Kitchen Story,3499 16th St, , San Francisco,94114,69,Asian,5,$
+052cd561b0,Mustafio's Pizza,1116 Polk St, , San Francisco,94109,new,"Italian, Pizza, Exclusive",0,$
+056e718c4d,Pakwan Restaurant,501 O'Farrell St, , San Francisco,94102,36,"Indian, Vegetarian",5,$
+05f82f907b,India Clay Oven,2436 Clement St, , San Francisco,94121,29,Indian,5,$
+0754edb175,Bizza,1463 Haight St, , San Francisco,94117,30,"Pizza, Salads, Vegan",5,$
+0832a304d4,Taco Boys,2312 Market St, , San Francisco,94114,93,"Mexican, Latin",5,$
+086e56c6e5,Za'atar Mediterranean,1750 Cesar Chavez , Unit D, San Francisco,94124,100+,"Mediterranean, Vegetarian",0,$
+0a03d5d682,Big Baba Eats,198 Broad St, , San Francisco,94112,new,"Mediterranean, Greek, Vegetarian",0,$
+0bf8ef23a9,Old Mandarin Islamic Restaurant,3132 Vicente St, , San Francisco,94116,23,"Chinese, Asian, Asian",5,$
+0c253074b0,Burger of Glory (Mission St),2020 Mission St, , San Francisco,94110,new,"American, Fast",0,$
+0dbc92ae84,Iza Ramen Lower Haight,237 Fillmore St, , San Francisco,94117,new,"Asian, Noodles, Japanese",0,$
+0df63a9290,Taqueria Cazadores,1600 Mission St, , San Francisco,94103,32,Mexican,5,$
+0e76a5f695,Jasmine Garden,708 14th St, , San Francisco,94114,22,"Vietnamese, Noodles, Healthy",5,$
+12629a3650,Healthyish Mediterranean Bowls,2990 24th Street, , San Francisco,94110,12,Middle,5,$
+12ee372d32,Crepes on Cole,100 Carl St, , San Francisco,94117,100+,"American, Breakfast",0,$
+133552db9a,Abe's Pizza - San Francisco,940 Market St., , San Francisco,94102,new,"Pizza, American, Italian",0,$
+13c0158acf,NAMASTEY PATIO NEPALESE AND INDIAN CUISINE,5500 College Avenue, , San Francisco,94618,new,"Indian, Vegetarian, Asian",0,$
+1464405238,Mymy,1500 California St, , San Francisco,94109,27,Breakfast,5,$
+15e6938fe5,"Togo's (2300 16th St, San Francisco, CA)",2300 16th St,275, San Francisco,94103,41,Sandwich,5,$
+16712e076b,Lettuce Feast! (1234 Polk St.),1234 Polk St., , San Francisco,94109,new,"Salads, Healthy, American",0,$
+17237f021b,Amici's East Coast Pizzeria - SOMA,60 Morris St, , San Francisco,94107,43,"Italian, Salads, Pizza",5,$
+17b55f47fa,Wooly Pig Cafe,2295 3rd St, , San Francisco,94107,83,"Asian, Rice",5,$
+17e803356a,Kusina Ni Tess,237 Ellis St, , San Francisco,94102,30,"Asian, Asian",5,$
+18cbc03cf8,Tandoori Mahal,123 2nd St , Unit A, San Francisco,94105,new,"Indian, Vegetarian, Asian, Healthy",0,$
+18f27530ce,Seniore's Pizza,2518 Durant Ave, , San Francisco,94704,28,"Pizza, Wings, Family",5,$
+18fa1f8a22,Cafe Valencia,1252 Valencia Street, , San Francisco,94110,new,"Brazilian, Coffee",0,$
+1997e5009c,Balompie Cafe,3349 18th St, , San Francisco,94110,40,"Salvadorian, Alcohol, South",5,$
+19a1110414,North India Restaurant,123 2nd St, , San Francisco,94105,25,"Indian, North",4,$
+1a262186dc,Westwood,2036 Lombard Street, , San Francisco,94123,new,"Burgers, American, Sandwiches, B, B, Q, Southern, Wings, Burgers, Chicken, Mexican, Salads, Comfort",0,$
+1bbf8935b4,Phoenix Irish Bar & Restaurant,811 Valencia St, , San Francisco,94110,new,"American, Burgers, Sandwiches",0,$
+1c69b5e87c,Bamboo Restaurant,1441 Polk St, , San Francisco,94109,35,"Japanese, Chinese, Sushi, Family",5,$
+1c78042f2a,Chisme Cantina,882 Sutter St, , San Francisco,94109,73,"Mexican, Latin",5,$
+1d1bef3ca1,Icu Deli Inc,496 Eddy Street, , San Francisco,94109,new,"Burgers, American, Sandwiches",0,$
+1d62e0ea42,Ly's Vietnamese Cuisine,1779 Lombard Street, , San Francisco,94123,100+,"Vietnamese, Noodles, Healthy",0,$
+1d9c9ea5b4,L & G Vietnamese Sandwiches,602 Eddy St, , San Francisco,94109,47,"Asian, Vietnamese, Sandwich",5,$
+1e869a57e5,El Capitan Taqueria - Folsom,1198 Folsom St, , San Francisco,94103,87,"Mexican, Latin",4,$
+1eba514494,Keeva Indian Kitchen,908 Clement St, , San Francisco,94118,51,"Indian, Family",5,$
+1fc20f2db2,Purple Rice,509 Haight St, , San Francisco,94117,81,"Korean, Asian, B, B, Q, Alcohol, Group",5,$
+1ff0db962d,Star India Restaurant,3721 Geary Blvd, , San Francisco,94118,31,"Indian, Vegan, Vegetarian, Alcohol, Group",4,$
+23984fd937,Jade Palace Chinese Kitchen,2531 Macarthur Blvd, , San Francisco,94602,44,"Chinese, Asian, Asian",4,$
+2421627fe4,Chowking (3589 Callan Blvd),3589 Callan Blvd, , San Francisco,94080,25,"Noodles, Dim",5,$
+2516509005,707 Sutter,707 Sutter St, , San Francisco,94109,64,"Korean, Asian, B, B, Q, Alcohol, Family",5,$
+2555fc9693,Grub Zone (Valencia St),178 Valencia St, , San Francisco,94103,15,"Pizza, Bar",5,$
+26fc646826,Poke Bar (555 California St.),555 California St., , San Francisco,94104,new,"Asian, Hawaiian, Healthy, Vegetarian, Seafood",0,$
+2790d681ba,Green Island Restaurant,4012 Geary Blvd, , San Francisco,94118,32,"Chinese, Asian, Asian",5,$
+28eacc34a2,Split,560 Mission St, , San Francisco,94105,new,Breakfast,0,$
+2908ececf7,Extreme Pizza - SOMA,1062 Folsom St, , San Francisco,94103,21,"Pizza, Italian, Sandwich, Group",4,$
+290ac08b80,lulubowls (Hawaiian-Inspired Bowls- SOMA),60 Morris St., , San Francisco,94107,35,"Healthy, Asian, Vegan, Gluten",5,$
+2aa129a3d5,Mehfil Indian Restaurant,88 2nd St, , San Francisco,94105,new,"Indian, Vegetarian",0,$
+2cacdc3dc9,Moe's Good Burger,606 Geary St, , San Francisco,94109,new,"Mediterranean, Greek, Vegetarian, Healthy",0,$
+2cf35024af,Lin's Chinese Kitchen,337 Jones St, , San Francisco,94102,26,"Chinese, Fast",5,$
+2d9ecc1add,Golden Lotus Vegan Restaurant,1301 Franklin St, , San Francisco,94612,45,"Healthy, Vegetarian, Asian",5,$
+2dc02c5965,Cocina Mayah,2909 16th St, , San Francisco,94110,new,"Mexican, New",0,$
+2f323cf482,Fresh and Best Cafe 2,1428 Alice St, , San Francisco,94612,14,Juice,5,$
+307bb4d5a2,Ginto Express MISSION,1552 Howard Street, , San Francisco,94103,100+,"Asian, Japanese, Rice",0,$
+31710e31b2,Cafe Europa,4318 California Street, , San Francisco,94118,new,Eastern,0,$
+336c374783,City Chopsticks,883 Bush St, , San Francisco,94108,100+,"Chinese, Family",0,$
+33d047750d,YH-Beijing,500 Haight St, , San Francisco,94117,100+,"Chinese, Asian, Chicken, Eats",0,$
+34348953ad,Ladle & Leaf - 50 Post,50 Post St Ste 3, , San Francisco,94104,28,"Sandwich, Healthy, American, Vegetarian, Comfort",5,$
+345e15f27b,Dragon River Restaurant,5045 Geary Boulevard, , San Francisco,94118,new,"Chinese, Asian, Asian",0,$
+34f6c6ed9e,Kan Kiin Restaurant,201 Southgate Avenue, , San Francisco,94015,new,Asian,0,$
+3627942b30,Casa Barajas (at Chug Pub),1849 Lincoln Way, , San Francisco,94122,15,"Pub, Spanish, Salads, Healthy",5,$
+365846447d,Bistro Central Parc,560 Central Avenue, , San Francisco,94117,new,"Italian, Pasta, Salads",0,$
+37132ebe04,Terra cotta warrior,2555 Judah St, , San Francisco,94122,32,"Asian, Salads, Noodles, Healthy",5,$
+378d5b80ce,JotMahal,1543 Shattuck Ave, , San Francisco,94709,31,Indian,5,$
+389707b930,Ben Thai Cafe,1331 Polk St, , San Francisco,94109,100+,"Thai, Asian, Noodles, Salads, Coffee",0,$
+3a809a16e4,Saucey Skewer by Fresco Inc,1338 Polk St, , San Francisco,94109,new,"Mediterranean, Kebab, Healthy",0,$
+3b0845a988,Honey Honey Cafe & Crepery,599 Post St, , San Francisco,94102,25,"Burgers, American, Sandwiches",5,$
+3b46ab3289,Namu Stonepot - Mid Market,59 9th Street, , San Francisco,94103,new,"Asian, Asian",0,$
+3b61980909,Halal Corner,1338 Polk Street, , San Francisco,94109,new,"Pizza, Italian, Sandwiches",0,$
+3bbe1ca069,Shawarma House,1534 California St, , San Francisco,94109,new,"Pizza, American, Italian",0,$
+3d056365c3,Holly's Mandarin,4080 Piedmont Ave, , San Francisco,94611,100+,"Chinese, Asian, Asian",0,$
+3d385db1f9,Bini's Kitchen LLC,1001 Howard St, , San Francisco,94103,new,"Himalayan, Asian",0,$
+3f9bd7c17e,Parada 22,1805 Haight St, , San Francisco,94117,new,"Caribbean, Seafood, Latin",0,$
+419de38fc7,House of Curries - Sacramento St,3136 Sacramento Street, , San Francisco,94702,30,"Indian, Pakistani, Halal, Group",5,$
+41a4c34f00,Spicy King,65 Waverly Place, , San Francisco,94108,12,"Asian, Chinese, Asian",5,$
+41ad5a9bb8,Bimi Poke,135 4th St, In Metreon Mall, San Francisco,94103,100+,"Japanese, Rice",0,$
+43571370de,Royal Rangoon,2826 Telegraph Ave, , San Francisco,94705,new,"Asian, Burmese, Chinese",0,$
+4358242157,Sofra Grill,132 Hazelwood Drive, , San Francisco,94080,new,"Mediterranean, Kebab, Middle",0,$
+43fb8c8f63,Loving Hut,524 Irving St, , San Francisco,94122,26,"Vegetarian, Vegan, Healthy, Family",5,$
+44744201ca,Tataki,2827 California St, , San Francisco,94115,14,"Japanese, Sushi, Rolls",5,$
+45776e79b5,Golden King Vietnamese Restaurant,757 Clay St, , San Francisco,94108,new,"Vietnamese, Asian",0,$
+46565114f8,Lemonade - Yerba Buena,781 Mission St, , San Francisco,94103,16,Pure,5,$
+46e5c62896,Five Rivers Indian Cuisine,314 Westlake Center, , San Francisco,94015,32,Indian,5,$
+472db3cccc,Fresco Pizza Shawarma,1338 Polk St, , San Francisco,94109,18,"Italian, Middle",5,$
+496b909166,Ben's Fast Food,60 Morris St, , San Francisco,94107,100+,"Healthy, American, Fast",0,$
+498f041fec,Pizza County (Mission St),475 Fell Street, , San Francisco,94102,new,"American, Fast",0,$
+4b905dd0b7,May Thai Kitchen,1319 Park Street, , San Francisco,94501,26,"Thai, Asian, Noodles",5,$
+4bdf2e0912,Wrap N' Roll Pakistani Restaurant,2493 Telegraph Avenue, , San Francisco,94704,12,"Pakistani, Indian, Wraps",4,$
+4c33b90343,Bread & Butter Deli,1815 Irving Street, , San Francisco,94122,new,"Salads, Vegetarian, American",0,$
+50982f016e,Rose Indian Cuisine,1386 9th Ave, , San Francisco,94122,100+,"Indian, Vegetarian, Asian, Healthy, Alcohol, Group",0,$
+52b146c74c,Mint Leaf Vietnamese Restaurant - Berkeley,2865 Seventh Street, , San Francisco,94710,19,"Vietnamese, Noodles, Healthy",5,$
+53f093b436,Mission Chinese Food,2234 Mission St, , San Francisco,94110,22,"Chinese, Asian",5,$
+540cba8772,Little Delhi,83 Eddy St, , San Francisco,94102,79,"Indian, Vegetarian",4,$
+56acc54327,Curry corner,600 Linden Ave, , San Francisco,94080,59,"Indian, Vegetarian, Asian, Healthy, Alcohol",5,$
+587682cced,Gourmet Village Chinese Restaurant,465 Broadway Millbrae, , San Francisco,0,new,"Chinese, Asian",0,$
+5a0d8872d3,Thanh Tam II,577 Valencia Street, , San Francisco,94110,59,"Vietnamese, Asian, Salads, Group",5,$
+5cd469dc77,Loaded Fries N' Wings (Valencia St),178 Valencia St, , San Francisco,94103,16,"Pizza, American, Italian",5,$
+5dc31bf540,Late Night Cuisine,1109 Fillmore Street, , San Francisco,94115,15,"Indian, Himalayan, Biryani, Indian",5,$
+5dfd73e2b3,SF Hole in the Wall Pasta,1825 Irving St., , San Francisco,94122,42,"Salads, American, Healthy, Pasta",5,$
+5f2c68d8a4,Empire Philly Steak (Mission St),2020 Mission St, , San Francisco,94110,new,"American, Fast",0,$
+5fb6eb3f82,Golden Gate Indian Cuisine & Pizza,4038 Judah St, , San Francisco,94122,new,"Pizza, Indian",0,$
+601f14a1b8,F#ck Gluten  (SOMA),60 Morris St, , San Francisco,94107,15,"Healthy, Salads, Vegan, Gluten",5,$
+6121b7edf4,Cafe La Boheme,3318 24th St, , San Francisco,94110,new,"Healthy, Salads, Sandwich, Alcohol",0,$
+620464c5ea,Pizza Zone N Grill (Valencia St),178 Valencia St, , San Francisco,94103,75,"Burgers, Pizza, Wings, American, Vegetarian",5,$
+62553699a1,Umami Express,60 Morris Street, , San Francisco,94107,47,"Healthy, Asian",5,$
+62ff453221,Azucar Lounge,299 9th Street, , San Francisco,94103,new,"Mexican, Latin",0,$
+63d9c804e8,SoHoMei,1240 Noriega St, , San Francisco,94122,new,"Vietnamese, Malaysian, Chinese",0,$
+643146f756,Phuket I'm Vegan by Basil Cart,60 Morris Street, , San Francisco,94103,30,"Vegan, Asian, Thai",5,$
+6480159957,Tad's Steak House,38 Ellis, , San Francisco,94102,47,"Burgers, American, Sandwiches",5,$
+67b15d1dc5,Osha Thai - Embarcadero,4 Embarcadero Ctr, , San Francisco,94111,25,"Thai, Asian, Noodles, Rice",5,$
+67e859d200,Vegan Falafel Spot (1338 Polk Street),1338 Polk Street, , San Francisco,94109,new,"Vegetarian, Vegan, Mediterranean, Healthy, Family",0,$
+688c23e0b7,Clay Oven On Haight,233 Fillmore St, , San Francisco,94117,new,"Indian, Vegetarian, Asian, Healthy",0,$
+68a7eaeecd,Alhamra Pizza,3083 16th St, , San Francisco,94103,new,"American, Pizza, Italian",0,$
+6c53fcc508,Daydream Breakfast Burritos by Fresco Inc,1338 Polk St, , San Francisco,94109,new,"Mexican, Latin",0,$
+6cc35229a1,Mixt (560 Mission),560 Mission Street, , San Francisco,94105,11,"American, Healthy, Salads, Vegetarian, Group",5,$
+6cccfd8caf,Round Table Pizza (801 Van Ness Ave),801 Van Ness Avenue, , San Francisco,94109,52,"Pizza, Salads, Sandwich, Wings",5,$
+6e362cdf4f,THONGLOR THAI,420 Geary St, , San Francisco,94102,100+,"Thai, Asian, Noodles, Group",0,$
+6ead93aeba,Jade Cafe,1688 Bryant St, , San Francisco,94103,54,"Chinese, Asian, Asian",5,$
+70230846f3,Trailer Birds Hot Chicken CA-3806,590 Van Ness Avenue, , San Francisco,94102,new,"American, Chicken, Sandwich",0,$
+704a3bee1d,Avatar's Restaurant- Sausalito,2656 Bridgeway, , San Francisco,94965,new,"Indian, New",0,$
+7074af3921,"Best Coast Burritos - Emeryville, CA",1400 Powell St, , San Francisco,94608,new,"Mexican, Kids",0,$
+70c39f7ca0,Tuyêt Mai,547 Hyde Street, , San Francisco,94109,new,"Vietnamese, Noodles, Healthy",0,$
+7180ce0fe9,Javi’s Cooking,3446 Market St, , San Francisco,94541,new,Latin,0,$
+72eb7db31e,Mama Tran's Kitchen,5999 Mission Street, , San Francisco,94014,36,"Vietnamese, Pho, Noodles, Healthy",4,$
+733a37a294,Tai Chi,2031 Polk Street, , San Francisco,94109,29,"Chinese, Asian, Asian",5,$
+736fd42d45,Lava Wings (Mission st),2020 Mission St, , San Francisco,94110,new,"American, Fast",0,$
+73a8f9eccb,El Toro Taqueria,598 Valencia St, , San Francisco,94110,11,"Mexican, Vegetarian",5,$
+74918689a3,Naan n Curry (Oakland),1615 Clay St, , San Francisco,94612,37,"Indian, Vegetarian, Asian, Healthy",4,$
+75d4f6339a,Falafelland,133 6th St, , San Francisco,94103,new,"Mediterranean, Greek, Vegetarian, Healthy",0,$
+76765c79b9,Andersen Bakery,1390 Market Street, B, San Francisco,94102,new,"American, Breakfast",0,$
+7769e2f8df,The Imperial Indian (1968 Lombard St),1968 Lombard St, , San Francisco,94123,new,"Indian, Pakistani, Chicken, Halal, Vegetarian",0,$
+7a1ade4d1b,Irma's Pampanga Filipino Restaurant,2901 16th St, , San Francisco,94103,49,"Filipino, Asian, Noodles",5,$
+7b5c3361fb,Dancing Yak,280 Valencia St, , San Francisco,94103,20,"Asian, Himalayan, Indian, Nepalese, Group",5,$
+7b6dc18e7a,Raj Indian Cuisine,4086 Piedmont Ave, , San Francisco,94611,11,"Indian, Vegetarian, Asian, Healthy",5,$
+7e096edf2e,supremo pasta,87 6th, , San Francisco,94103,new,"Italian, Pasta, Comfort",0,$
+7e2301984b,Chaat House,1373 Solano Ave, , San Francisco,94706,new,"Indian, Vegetarian, Asian, Healthy",0,$
+7e7a8cba1a,King of Noodles,1639 Irving St, , San Francisco,94122,16,Black,5,$
+7ebd64e635,Spice of America,1655 Market St, , San Francisco,94103,new,"Indian, Nepalese, Halal",0,$
+7f4c3c9353,Rasoi Restaurant & Lounge,1425 Burlingame Ave, , San Francisco,94010,23,"Indian, Vegetarian, Asian, Healthy",5,$
+8147cffe57,Sun and Moon,415 Brannan St, , San Francisco,94107,15,Thai,5,$
+8197332f20,Nobhill Pizza & Shawarma,1534 California St, , San Francisco,94109,16,"Pizza, Desserts, Middle",4,$
+83b4fd9814,Flying Pig Bistro,433 S Van Ness Ave, , San Francisco,94103,new,"Sandwiches, Burgers, American, Salads, Affordable",0,$
+84172b84c6,Happy Shabu Shabu,1401 Fillmore Street, , San Francisco,94115,new,"Japanese, Asian, Sushi, Alcohol",0,$
+86f36dc81d,Peasant Pies - Mission Bay,550 Gene Friend Way, , San Francisco,94158,11,"American, Comfort",5,$
+8a21f0d0ea,Shooting Star Cafe,1022 Webster St, , San Francisco,94607,99,"Asian, Seafood, Desserts, Chinese, Family",5,$
+8a3c16fd70,apizza,2043 Fillmore Street, , San Francisco,94115,16,"Pizza, American, Italian",5,$
+8ab99f6655,Chutney,511 Jones St, , San Francisco,94102,46,"Pakistani, Indian, Halal",5,$
+8baa3003fb,Limon - Van Ness,1001 S Van Ness Ave, , San Francisco,94110,74,Latin,5,$
+8c1edb6f79,Barbara Pinseria & Cocktail Bar,431 Columbus Avenue, , San Francisco,94133,new,"Italian, Pasta, Pizza, Desserts",0,$
+8c576cc21d,Naan 'n' Curry - Serramonte,80 Serramonte Boulevard, , San Francisco,94015,23,"Indian, Kebab, Pakistani",4,$
+8d431aeda1,Panda Express (3rd St & Evans Ave),3801 3rd Street, #300, San Francisco,94124,100+,"Chinese, Asian, Group",0,$
+8ed38f1d40,Joyful Kitchen,1919 Ocean Ave, , San Francisco,94127,41,"Chinese, Noodles, Family",5,$
+8f6b67e189,Healthyish Republic,2990 24th Street, , San Francisco,94110,22,"Vegan, Vegetarian, Healthy, Salads, Burgers, Gluten",5,$
+8f964bd5f3,Krispy Krunchy Chicken (Downtown),177 Eddy Street, , San Francisco,94102,66,"American, Chicken, Desserts, Family",4,$
+91358e701d,Tadu Ethiopian Kitchen,1120-30 4th St, , San Francisco,94158,65,Breakfast,5,$
+91d6931b12,New Thai Elephant Fisherman Wharf,393 Bay, , San Francisco,94133,41,"Thai, Asian, Noodles, Vegan",5,$
+9221b1986c,V & J Café Chinese Restaurant,670 Broadway, , San Francisco,94133,14,"Chinese, Asian",5,$
+923aa8d7e9,Wok Station,2154 Irving St, , San Francisco,94122,100+,"Chinese, Asian, Rice",0,$
+92857349dd,Dirty Little Vegan (2353 E 12th St),2353 E 12th St, , San Francisco,94601,new,"American, Vegan, Healthy",0,$
+94d61a054d,Lime Tree Southeast Asian Kitchen,450 Irving St, , San Francisco,94122,11,"Asian, Asian",5,$
+95196c1bc3,The Cove on Castro,434 Castro Street, , San Francisco,94114,new,Coffee,0,$
+96bb7fe57a,Sumac by GastrobotEats,1096 Union St, , San Francisco,94133,100+,"Mediterranean, Vegetarian, Healthy, Group",0,$
+96cc76970c,Comal Next Door (Berkeley),2024 Shattuck Ave, , San Francisco,94704,100+,"Mexican, Latin",0,$
+9712782d80,Raavi,533 Jackson Street, , San Francisco,94108,72,"Indian, Vegan",5,$
+97bace02d7,Ben's Fast Food,66 21st Avenue, , San Francisco,94403,25,"Healthy, Family",5,$
+98b3cad73a,Gioia Pizzeria,579 Hayes St, , San Francisco,94102,100+,"Pizza, American, Italian, Family",0,$
+99369e985c,Mission Curry House,2434 Mission St, , San Francisco,94110,95,"Indian, Vegetarian, Asian, Alcohol, Healthy, Group",5,$
+9a29717c77,Mi Yucatan,2845 Mission St, , San Francisco,94110,12,Latin,5,$
+9bd2c85acc,Gyros And Tzatziki,3111 24th Street, , San Francisco,94110,100+,"Mediterranean, Vegetarian, Wraps, Greek, Healthy, Vegan",0,$
+9cb59d83ac,The Melt - 925 Market,925 Market St, , San Francisco,94103,100+,"American, Burgers, Chicken, Sandwich, American, Gluten",0,$
+9dffad695c,Café Mystique,464 Castro St, , San Francisco,94114,14,"American, Mediterranean",5,$
+9e912cf2c8,Delhi Diner - Albany,1373 Solano Ave, , San Francisco,94706,31,"Indian, Family",4,$
+9ea5d7cbc7,Halal Lamb Gyro Spot,826 Van Ness Ave, , San Francisco,94109,new,Middle,0,$
+9f81aef27a,Vietnam House,642 Eddy St, , San Francisco,94109,17,"Vietnamese, Noodles, Healthy",5,$
+9ff23ddd26,Boo Koo,25 Miller Ave, , San Francisco,94941,new,Asian,0,$
+a1259b8c69,La Boulangerie - Hayes Valley,500 Hayes St, , San Francisco,94102,23,Breakfast,4,$
+a1586f857a,Old Siam,201 Ellis St, , San Francisco,94102,13,"Thai, Asian, Noodles",5,$
+a15c1e37ac,Dough,1455 Market St, , San Francisco,94103,new,"Pizza, American, Italian",0,$
+a18b0123c8,El Pipila,879 Brannan Street, , San Francisco,94103,new,"Mexican, Latin",0,$
+a2fc202f5d,Freekeh,3126 16th Street, , San Francisco,94103,16,"Halal, Kebab, Middle",5,$
+a36dbdd29b,Ayola (Kearny),327 Kearny St, , San Francisco,94108,new,"Mediterranean, Greek, Halal, Vegetarian, Salads, Healthy",0,$
+a38ed8d86d,Mandarin House SF,3452 Mission St, , San Francisco,94110,93,"Chinese, Noodles, Seafood",5,$
+a45c194345,The Meltdown (816 Mission St),816 Mission St, , San Francisco,94103,12,"American, Sandwich, Comfort",5,$
+a47dad260c,Hazel's Kitchen,1319 18th St, , San Francisco,94107,18,"Sandwiches, Healthy, Breakfast",5,$
+a4f57044c9,Local Kitchen & Wine Merchant,330 1st St, , San Francisco,94105,new,"Pizza, Comfort",0,$
+a5a4fdc8d8,Burma Love Downtown,8 Mint Plaza, , San Francisco,94103,100+,South,0,$
+a68696b2fd,Tick-Tock Tikka House,83 Eddy St., , San Francisco,94102,new,"Indian, Indian",0,$
+a85e2000cb,KONARQ,5959 Shellmound Street, , San Francisco,94608,new,"Indian, Vegetarian, Asian",0,$
+a901f56375,Indian Oven,233 Fillmore St, , San Francisco,94117,new,Indian,0,$
+a94e70d39f,Mozzarella Di Bufala,69 W Portal Ave, , San Francisco,94127,30,"Brazilian, Pizza, Italian, Latin",5,$
+a95e601b05,F#ck Carbs (SOMA),60 Morris Street, , San Francisco,94107,16,"Healthy, Salads, Vegan, Gluten",4,$
+aa6ab827d0,Fat Beli Deli,2598 San Bruno Ave, , San Francisco,94134,17,"Sandwiches, American, Healthy",5,$
+ac6e95333f,Nojo Ramen Tavern,231 Franklin Street, , San Francisco,94102,50,"Ramen, Japanese, Comfort",5,$
+ad92cdf1fc,Gluten Free Pizza Garden - SOMA,60 Morris St, , San Francisco,94107,new,"Pizza, American, Italian, Gluten",0,$
+af5b37ea07,Los amigos restaurant,530 Valencia St, , San Francisco,94110,12,"Mexican, Salvadorian, Tacos",5,$
+afc1ebd078,Na Ya Dessert Cafe (Hayes Valley),535 Octavia Street, , San Francisco,94102,35,"Desserts, Japanese",5,$
+b07970f66f,Chef Li's Cafe,2726 San Bruno Ave, , San Francisco,94134,12,"Chinese, Asian, Asian",5,$
+b1864f777a,La Mediterranee,2210 Fillmore St, , San Francisco,94115,73,"Mediterranean, Greek, Vegetarian, Family",5,$
+b4f5de9a22,The Epicurean Trader (Hayes St.),465 Hayes Street, , San Francisco,94102,new,"Sandwiches, American, Healthy",0,$
+b51ed15d2e,Brothers Pizza,3627 Taraval St, , San Francisco,94116,new,"Pizza, American, Italian, Alcohol",0,$
+b56e56b251,Proper Food - 588 Mission,588 Mission Bay Boulevard North, , San Francisco,94158,19,"Healthy, Salads, Vegetarian, Sandwich, American",5,$
+b59844a94a,Mission Picnic,983 Valencia Street, , San Francisco,94110,new,"Sandwich, Salads, Breakfast",0,$
+b611419016,Mission Hunan Restaurant,2960 16th St, , San Francisco,94103,56,Asian,5,$
+b68de2975f,AK Subs,397 8th St, , San Francisco,94103,17,"American, Sandwich, Salads, Burgers, Healthy",5,$
+b749d5e645,Aditi Indian Cuisine,1101 Valencia St, , San Francisco,94110,95,"Indian, Vegetarian, Asian, Healthy, Group",5,$
+b7639f3742,What The Cluck (Oakland),815 Washington Street, B, San Francisco,94607,12,"Asian, Thai, Singaporean, Chicken, Rice",4,$
+ba1630ba57,"Subway (1400 Mission Street, 131)",1400 Mission Street,131, San Francisco,94103,40,Fast,4,$
+bb2b7b58ae,Amoura,713 Linden Ave, , San Francisco,94080,new,"Mediterranean, Greek, Chicken, Vegetarian, Breakfast",0,$
+bc14baa46c,Juicy's Cheesesteaks by Fresco Inc,1338 Polk St, , San Francisco,94109,new,"American, Cheesesteak, Sandwiches",0,$
+bd6fa4c0e3,Vegan Plantasia,60 Morris Street, , San Francisco,94107,16,"Thai, Asian, Noodles, Group",5,$
+bdbdf54963,Bamboo Asia - California St,311 California St, , San Francisco,94104,new,"Vietnamese, Noodles, Healthy, Japanese, Sushi, Indian, Asian",0,$
+c03524d14c,Gunpowder Cafe,83 Eddy St., , San Francisco,94102,new,"Indian, Indian",0,$
+c18ac55d01,Addis Ethiopian Restaurant,6100 Telegraph Ave, , San Francisco,94609,11,"African, Ethiopian, Vegetarian",4,$
+c2200c5ef6,Ethiopia Restaurant,2955 Telegraph Ave, , San Francisco,94705,new,"Ethiopian, Black",0,$
+c22df80613,Kennedy's Indian Curry House,1040 Columbus Ave, , San Francisco,94133,new,"Indian, Bar",0,$
+c298ea1a86,Morty’s Delicatessen,280 Golden Gate Ave, , San Francisco,94102,new,"Sandwiches, Burgers, Salads, Deli, American, Group",0,$
+c5cab93d6b,ZERO&  Hayes,437 Hayes Street, , San Francisco,94102,46,Bubble,5,$
+c62e047dff,Palmyra,700 Haight St, , San Francisco,94117,48,Middle,5,$
+c6cff5e369,Gusto Pinsa Romana,1000 Bush Street, , San Francisco,94109,25,"Pizza, American, Italian, Vegetarian",5,$
+c726d070f1,The American Grilled Cheese Kitchen,1 S Park St, , San Francisco,94107,new,"American, Western, Sandwich",0,$
+c7aa5073a5,Grubstakes Clam Chowder House,1525 Pine St, , San Francisco,94109,17,"Soup, Salads, Burgers, Healthy, Comfort",5,$
+c918bcf07c,Bun Mee,2015 Fillmore St, , San Francisco,94115,52,Asian,5,$
+c94471efa0,Ramen House,2623 San Bruno Avenue, , San Francisco,94134,new,"Japanese, Asian, Ramen",0,$
+c9ff22c0cc,Miette Patisserie & Confiserie (Hayes Valley),449 Octavia Street, , San Francisco,94102,new,"Bakery, Desserts, Breakfast",0,$
+ca644e71b7,Poke Delish,601 Mission Bay Boulevard North, , San Francisco,94158,15,"Japanese, Asian, Sushi",5,$
+cc3cf31715,Asmara Ethiopian Restaurant,5020 Telegraph Avenue, , San Francisco,94609,new,"Ethiopian, Vegetarian, African, Healthy",0,$
+ccf7c4ccdc,Ming's Fried Chicken,501 Broadway, , San Francisco,94133,new,"Asian, Asian",0,$
+cd5555942e,Clay Oven - West Portal,385 W Portal Ave, , San Francisco,94127,15,Indian,5,$
+cd5944fdd5,Taste of Rome,1000 Bridgeway, , San Francisco,94965,11,"Pizza, Italian, Pasta, Comfort",5,$
+ce48a18b56,Oliva (Sacramento),483 Sacramento St, , San Francisco,94111,new,"Mediterranean, Vegetarian, Chicken, Healthy",0,$
+ce6eca319d,Taqueria Castillo (McAllister),86 Mcallister St, , San Francisco,94102,16,"Mexican, Latin",5,$
+ce8b5a94c8,Ocean Indian Cuisine,6127 Geary Boulevard, , San Francisco,94121,100+,"Indian, Vegetarian, Biryani, Group",0,$
+cf2e16417b,Savor,401 Irving Street, , San Francisco,94122,new,"Vegan, Vegetarian, Healthy, Middle",0,$
+cf50fe9f98,Pizza Due,489 Church Street, , San Francisco,94114,new,"Pizza, American, Italian, Salads",0,$
+cf7d16b892,Mendocino Farms - San Francisco,465 California Street, , San Francisco,94104,100+,"Sandwiches, American, Healthy",0,$
+cfd25d1bf7,Your Momma’s Kitchenette,1244 Market Street, , San Francisco,94102,new,Breakfast,0,$
+cfefec0717,Henry's Hunan Restaurant,110 Natoma St, , San Francisco,94105,16,"Chinese, Asian, Asian",5,$
+cffdccde3b,Boudin (Embarcadero),4 Embarcadero Center, , San Francisco,94111,39,"Bakery, Salads, Sandwich, Healthy, Family",5,$
+d081dfb7ec,Pronto Pizza San Francisco,798 Eddy St, , San Francisco,94109,12,"Italian, Pizza",5,$
+d25e2fc6d2,Dim Sum Bistro,675 Broadway St., , San Francisco,94133,37,"Chinese, Asian, Seafood, Group",5,$
+d28f11e633,Daimo Chinese Restaurant,3288 Pierce St, , San Francisco,94804,22,"Chinese, Asian, Seafood, Family",5,$
+d3078322f2,World Wrapps,208 Corte Madera Town Center, , San Francisco,94925,31,"Sandwich, Salads, Mexican, Fast",5,$
+d35238a43f,Yuet Lee Seafood Restaurant,1300 Stockton St, , San Francisco,94133,25,"Chinese, Asian, Cantonese, Congee",5,$
+d39609d4dd,New Red Jade,245 Church Street, , San Francisco,94114,100+,"Chinese, Asian, Asian",0,$
+d433f79a3a,Metro Caffe,247 Fillmore St, , San Francisco,94117,20,"American, Burgers, Sandwich",5,$
+d6c9f26a5f,Entrepanes Sandwich Co,331 Baden Avenue, , San Francisco,94080,new,"Sandwiches, American, Healthy",0,$
+d8fe8220b8,Leonore’s Deli & Taqueria,601 Van Ness Ave , Suite K, San Francisco,94102,new,"Mexican, New",0,$
+d904b24431,Champa Garden,613 Faxon Ave, , San Francisco,94112,100+,"Thai, Laotian, Asian",0,$
+dafacf8f48,El Pollo Supremo,5210 Mission St, , San Francisco,94112,100+,Latin,0,$
+dbadaf5293,Chaat Corner (San Francisco),320 3rd St, , San Francisco,94107,100+,"Indian, Vegetarian",0,$
+dc723ae5a6,Golden Kim Tar,434 Larkin St, , San Francisco,94102,17,"Chinese, Vegetarian",4,$
+dcab1f7163,Angel Cafe & Deli,700 Geary Street, , San Francisco,94109,14,Coffee,5,$
+dd88f5dd74,Mount Everest Restaurant,2598 Telegraph Ave, , San Francisco,94704,26,"Indian, Vegan",5,$
+de3d61947c,Vegan Enjoyable - 839 Kearny,839 Kearny Street, , San Francisco,94108,new,"Vegetarian, Vegan, Healthy, American, Chinese, Asian, Vegetarian",0,$
+df4bd68adb,Garaje,475 3rd St, , San Francisco,94107,42,"Mexican, Latin",5,$
+e0f759071b,Kabana Pakistani Restaurant,1025 University Avenue, , San Francisco,94710,16,"Indian, Pakistani, Halal",5,$
+e0f9d78313,Mangrove Kitchen,312 Divisadero St, , San Francisco,94117,41,"Thai, Noodles, Asian, Family",5,$
+e16b223275,NoVY Restaurant,4000 24th St, , San Francisco,94114,24,"Mediterranean, Greek, Vegetarian, Healthy, Family",5,$
+e2a170c9d9,DaMaoXie,251 9th Street, , San Francisco,94607,new,"Chinese, Asian, Noodles",0,$
+e43cd1d2b1,Salam Halal Restaurant,999 7th Street, , San Francisco,94607,new,Middle,0,$
+e4cc3de137,Cafe Encore,488 Post Street, , San Francisco,94102,new,"Sandwich, Coffee",0,$
+e53b368679,Roti & Pizza,5000 Adeline Street, , San Francisco,94608,39,"Pizza, American, Italian",5,$
+e568c463fe,Tu Lan,8 6th St, , San Francisco,94103,38,"Asian, Vietnamese, Noodles, Group",5,$
+e57a029cee,Castillito Yucateco,2052 Mission St, , San Francisco,94110,new,"Mexican, Latin",0,$
+e5cb0b2968,Karaage Standard (60 Morris St),60 Morris St, , San Francisco,94103,new,"Japanese, Asian, Drinks",0,$
+e66f93fa23,Grant Place,737 Washington St, , San Francisco,94108,11,Chinese,5,$
+e6d1a10ec1,ea cafe (Ordermark),735 3rd St, , San Francisco,94107,21,"Japanese, Asian, Sushi",5,$
+e70944e84d,I'a Poke - Fillmore St.,1515 Fillmore St, , San Francisco,94115,40,"Sushi, Asian, Japanese, Family",5,$
+e7d5eae469,Amsterdam Cafe,930 Geary Street, , San Francisco,94109,new,"Pizza, Salads, Comfort",0,$
+eab354f451,TOKYROLL Sushi & Poké - SoMa (60 Morris St),60 Morris St, , San Francisco,94107,39,"Japanese, Sushi, Rolls",5,$
+eaf5597727,The Grind Cafe,783 Haight St, , San Francisco,94117,78,Breakfast,5,$
+f08af86f7a,Venga Empanadas,443 Valencia St, , San Francisco,94103,12,"Argentinian, Vegetarian",5,$
+f1cfe971de,IL Borgo,500 Fell Street, , San Francisco,94102,new,"Pizza, Italian, Pasta, Comfort",0,$
+f2fd6e9762,Alhamra Indian and Pakistani,3083 16th St, , San Francisco,94103,35,"Pizza, Indian, Halal, Family",5,$
+f383ce7ac3,Troy Greek Cuisine - Berkeley,1843 Solano Ave, , San Francisco,94707,40,"Mediterranean, Greek, Vegetarian, Group",5,$
+f38e8a08fc,Mi Lindo Peru,3226 Mission St., , San Francisco,94110,15,"Peruvian, Latin",5,$
+f51c24b46f,Kimbara,3380 19th St, , San Francisco,94110,new,"Peruvian, Latin",0,$
+f5bb521d4c,Viva Goa,2420 Lombard St, , San Francisco,94123,72,"Indian, Family",5,$
+f5c24959ed,Little Star Pizza (Valencia),400 Valencia St, , San Francisco,94103,100+,"Pizza, Alcohol, Gluten",0,$
+f6df55fbad,Pho De Nguyen,586 San Mateo Ave, , San Francisco,94066,40,"Vietnamese, Noodles, Group",5,$
+f851c6afdb,SAJJ Mediterranean (San Bruno),851 Cherry Avenue, STE 15, San Francisco,94066,20,"Mediterranean, Greek, Vegetarian, Healthy, Family",5,$
+fad8d79f91,Chanvi Eatery,533 Jackson Street, , San Francisco,94133,new,"Vegetarian, Asian, Healthy",0,$
+fb526965d1,Estela's Fresh Sandwiches,250 Fillmore St, , San Francisco,94117,new,"Deli, Breakfast",0,$
+fc013fa71e,Pacific Catch - Chestnut,2027 Chestnut Street, , San Francisco,94123,100+,"Seafood, American, Southern, Alcohol",0,$
+fd08bafd4a,Papa Steve's Sourdough Pizza (Macy’s),170 Ofarrell St, , San Francisco,94102,new,"American, Breakfast",0,$
+fd304fdb3e,Troya Mediterranean- Fillmore,2125 Fillmore St, , San Francisco,94115,28,"Mediterranean, Greek, Vegetarian, Healthy, Group",5,$
+fe1b905d75,Araujos,404 San Bruno Ave W, , San Francisco,94066,13,"Mexican, Latin",5,$
+ffda772b23,Win Garden,2794 Diamond St, , San Francisco,94131,62,"Chinese, Asian, Asian",5,$
+009861c271,San Francisco Breakfast Club,60 Morris St, , San Francisco,94103,32,"Healthy, Breakfast",5,$$
+00b8187e8f,Nourish Cafe (Hyde St),1030 Hyde St, , San Francisco,94109,78,Breakfast,5,$$
+00ff63e90d,Limoncello,1400 Sutter St, , San Francisco,94109,74,"Deli, Sandwich, Pizza, Salads, Vegetarian",5,$$
+023d72d005,Ajanta Restaurant,1888 Solano Ave, , San Francisco,94707,new,"Indian, Vegetarian",0,$$
+0321baf3bd,Nakama sushi,41 Franklin St, , San Francisco,94102,new,Japanese,0,$$
+410330665,Sweet Maple,2101 Sutter St, , San Francisco,94115,53,Asian,5,$$
+04314eec19,Eat Sushi,1516 Folsom St, , San Francisco,94103,24,"Sushi, Japanese, Family",5,$$
+056e79daa9,Guadalajara Restaurant,1001 Fruitvale Avenue, , San Francisco,94601,16,"Mexican, Breakfast",5,$$
+07e0e35ad4,Handy Deli,1815 Irving St, , San Francisco,94122,new,"Sandwich, Salads, Healthy",0,$$
+087b6e3a01,Krua Thai,525 Valencia Street, , San Francisco,94110,63,"Thai, Asian, Alcohol, Family",5,$$
+08f185cf4c,Ike's Love and Sandwiches - Polk,901 Polk St, , San Francisco,94109,100+,"Sandwich, Deli, American",0,$$
+09a1ff3762,SOMA Restaurant,85 5th St, , San Francisco,94103,new,"Mediterranean, Seafood, Pasta, Italian",0,$$
+0bbec1ec88,San Sun Restaurant,848 Washington St, , San Francisco,94108,new,"Chinese, Noodles, Vietnamese",0,$$
+0be7a9a892,Dolores Park Cafe,501 Dolores St, , San Francisco,94110,new,Breakfast,0,$$
+0c38efeeff,Black Bear Diner (4927 Junipero Serra Blvd),4927 Junipero Serra Blvd, , San Francisco,94014,23,"American, Burgers, Comfort",5,$$
+0dd5e9eca4,Sam Wo,713 Clay St, , San Francisco,94108,25,"Chinese, Noodles, Exclusive",5,$$
+0ebedc93f4,Tasty Pot,815 Clement St, , San Francisco,94118,56,Hot,5,$$
+0f1f5e435f,Hu Bei Restaurant,1055 El Camino Real, , San Francisco,94030,14,"Chinese, Family",5,$$
+0f6892dae6,Hayz Dog,364 Hayes Street, , San Francisco,94102,16,"American, Sandwich, Hot",5,$$
+0f6f22a8d9,Abesha Ethiopian Cuisine,4929 Shattuck Ave, , San Francisco,94609,new,"Ethiopian, African, Black",0,$$
+113fce3262,Aji Ichi Japanese Restaurant,695 San Mateo Ave, , San Francisco,94066,100+,"Seafood, Sushi, Japanese, Group",0,$$
+121a0ed612,New Eritrea Restaurant,907 Irving St, , San Francisco,94122,44,"Ethiopian, Black",5,$$
+14081468c5,A La Turca,869 Geary St, , San Francisco,94109,37,"Turkish, Mediterranean, Middle",5,$$
+16057bb30d,GAI Chicken Rice,3463 16th St, , San Francisco,94114,100+,"Thai, Vietnamese, Asian, Rice",0,$$
+16405537ab,Modern Thai,1247 Polk St, , San Francisco,94109,11,"Thai, Vegetarian",5,$$
+16f47e20e8,Denny's - SoMa,816 Mission St, , San Francisco,94103,100+,Breakfast,0,$$
+1797a09dc4,Dianda's Bakery,2883 Mission St, , San Francisco,94110,19,"Bakery, Desserts, Pastry",5,$$
+199292806a,Yalla Mediterranean,1761 Fillmore Street, , San Francisco,94115,new,"B, B, Q, Mediterranean, Turkish",0,$$
+19a27a9b18,Duboce Park Cafe,2 Sanchez St, , San Francisco,94114,17,Breakfast,5,$$
+1c0e420f72,The Burger Den (816 Mission St),816 Mission St, , San Francisco,94103,new,"American, Burgers, Comfort",0,$$
+1cbef86ad0,Mr. East Kitchen,276 5th St, , San Francisco,94107,51,"Vietnamese, Breakfast",5,$$
+1cf2147bcc,Aicha Moroccan cuisine,1303 Polk St, , San Francisco,94109,24,"Moroccan, Alcohol",5,$$
+1db75336e7,Little Saigon,7 Linden Ave, , San Francisco,94080,100+,"Vietnamese, Family",0,$$
+1ed7f2747c,Little Italy Pasta,1338 Polk St, , San Francisco,94109,15,"Italian, Pasta, Comfort",4,$$
+1eff64a80f,Deccan House,1142 Valencia St, , San Francisco,94110,93,"Indian, Indian",5,$$
+20317233d7,Truly Mediterranean,3109 16th St, , San Francisco,94103,71,"Mediterranean, Vegan",5,$$
+20a5ed291d,Shari's Cafe (San Bruno),2010 Rollingwood Drive, , San Francisco,94066,42,Breakfast,4,$$
+20af2c813a,The Salad Place & Rotisserie,5392 Mission St, , San Francisco,94112,29,"American, Salads, Sandwich, Healthy",5,$$
+213ec8c3f0,Halal Plus,1338 Polk Street, , San Francisco,94109,new,"Pizza, Halal, Chicken, Middle",0,$$
+225cb634eb,Biryani Kabab - Oakland,377 13th St, , San Francisco,94607,49,"Pakistani, Indian, Halal, Family",5,$$
+261de54292,Curry Up Now - Oakland,1745 San Pablo Ave, , San Francisco,94612,65,"Indian, Vegan",5,$$
+264f366f04,Tsing Tao- Fillmore St,1117 Fillmore St, , San Francisco,94115,100+,"Chinese, Seafood, Noodles, Family",0,$$
+28c039e4ab,Atlas Pizza Parlor,637 San Mateo Ave, , San Francisco,94066,20,"Pizza, Italian, Comfort",5,$$
+28ec689775,Better Than Pizza,5333 Adeline St, , San Francisco,94608,new,"Indian, Pizza, Halal",0,$$
+29735cd27f,Dumpling Park,1309 9th Ave, , San Francisco,94122,34,Chinese,4,$$
+2ad394f47f,Haraz Coffee House (SF),1452 Franklin Street, , San Francisco,94109,20,"Cafe, Middle",5,$$
+2b3275897c,Philz Coffee (Transbay Community),78 Minna St, , San Francisco,94105,11,"Cafe, Coffee",5,$$
+2b8858d81e,ONE65 Patisserie & Restaurant,165 O’farrell, , San Francisco,94102,25,"Bakery, Desserts, B, B, Q, Alcohol",4,$$
+2ec5bf7da2,Momo Magic Nepalese Cuisine,5333 Adeline St, , San Francisco,94608,new,"Nepalese, Himalayan, Dumpling",0,$$
+2f2bb13b7b,Wolfe's Lunch,1220 16th St, , San Francisco,94107,new,"Japanese, Korean, American",0,$$
+3022b96d0c,Al Maida Hot Food,5650 Market St, , San Francisco,94608,new,"Indian, North",0,$$
+3284938b9f,Crepevine - Inner Sunset,624 Irving St, , San Francisco,94122,74,Breakfast,5,$$
+337bee3892,Dickey's Barbecue Pit (CA-2046) 590 Van Ness Ave,590 Van Ness Avenue, , San Francisco,94102,100+,"B, B, Q, American, Chicken, Group",0,$$
+347436b54a,Estrella Taqueria,533 Haight St, , San Francisco,94117,100+,"Mexican, Tacos, Burritos, Group",0,$$
+35ef9de9f0,Level 13 - Caribbean,341 13th St, , San Francisco,94607,48,"Caribbean, Seafood, Comfort",5,$$
+36b06fb885,Joe & The Juice (235 Montgomery Street),235 Montgomery Street, , San Francisco,94104,75,"Cafe, Healthy, Juice",5,$$
+36ded4fea4,Shuggie’s Trash Pie + Natural Wine,3349 23rd Street, , San Francisco,94110,new,"Pizza, Italian, Vegetarian, Vegetarian",0,$$
+37273bcef4,Curry Leaf,943 Columbus Ave, , San Francisco,94133,73,"Indian, Halal, Pakistani, Family",5,$$
+37342e02b4,IHOP (S Airport Blvd),316 S Airport Blvd, , San Francisco,94080,100+,Breakfast,0,$$
+37b93a2645,Morning Due Cafe,3698 17th St, , San Francisco,94114,16,Breakfast,5,$$
+3816530695,4505 Burgers & BBQ,705 Divisadero St, , San Francisco,94117,100+,"Burgers, American, B, B, Q, Alcohol, Exclusive",0,$$
+387c47fc68,Indian Tikka Paradise (Sf Mission),3083 16th Street Suite 7, , San Francisco,94103,new,"Indian, Asian, Indian",0,$$
+391790a3b3,Jay's Cheesesteak,3285 21st St, , San Francisco,94110,57,"Sandwich, Vegetarian",5,$$
+3924576c88,Noor Indian Kitchen,5333 Adeline St, , San Francisco,94608,new,"Indian, Vegan, Vegetarian",0,$$
+39bb180265,Las Cabañas Mexican Grill & Taqueria,1916 Martin Luther King Junior Way, , San Francisco,94704,100+,"Mexican, Salads, Group",0,$$
+3a15cc04f2,Yarsa Nepalese Cuisine,1310 Grant Ave, , San Francisco,94133,100+,"Nepalese, Indian, Group",0,$$
+3ad7010769,Enter The Cafe,1401 Powell St, , San Francisco,94133,64,"Salads, Sandwich, Juice",5,$$
+3b751c04e1,China Live,644 Broadway, , San Francisco,94133,66,"Chinese, Family",5,$$
+3c5ac56e89,Golden Coast,1540 Ocean Ave, , San Francisco,94112,23,"Seafood, Chinese, Alcohol",5,$$
+3cfaea3317,Curry Oh City (60 Morris St.),60 Morris St., , San Francisco,94107,new,"Asian, Indian, Vegetarian",0,$$
+3de23d885d,Kokio Republic,711 Geary Blvd, , San Francisco,94109,100+,"Korean, Asian",0,$$
+3ff3761b37,Jack's Restaurant & Bar (San Bruno),1050 Admiral Ct #A, , San Francisco,94066,60,"American, Sandwiches, Breakfast",5,$$
+40e5ffe5bf,S&T Hong Kong Seafood,2588 Noriega St, , San Francisco,94122,new,"Chinese, Seafood, Noodles",0,$$
+41b58177e6,MrBeast Burger (2020 Mission Street),2020 Mission Street, , San Francisco,94110,20,"American, Burgers, Sandwich",4,$$
+41fe9de5d0,Barcote Ethiopian Restaurant,6430 Telegraph Ave, , San Francisco,94609,30,"Ethiopian, Vegetarian",5,$$
+424eadc46e,Jasper's Corner Tap & Kitchen,401 Taylor St, , San Francisco,94102,new,Breakfast,0,$$
+441bea31ed,Benihana (1737 Post Street),1737 Post Street, , San Francisco,94115,50,"Japanese, Family",5,$$
+442d6c3cef,The Crepe House,1755 Polk St, , San Francisco,94109,24,Breakfast,5,$$
+45681d4bf3,Blue Hawaii Açaí Café,2 Embarcadero Ctr, , San Francisco,94111,new,"American, Breakfast",0,$$
+4764bfa6d1,Firehouse Subs-ALAMEDA LANDING-1359,2680 5th St, B, San Francisco,94501,20,"American, Sandwich",5,$$
+4828b0d089,Greek Street Gyros (Oakland),5325 Adeline Street, , San Francisco,94608,36,"Greek, Mediterranean, Vegetarian",5,$$
+48edf88318,Falafel Boy,1924 Franklin St, , San Francisco,94612,100+,"Mediterranean, Rice",0,$$
+4aed801ddc,One Waan,2922 Diamond St, , San Francisco,94131,25,"Thai, Family",5,$$
+4afb2e8dde,Equator Coffees (SOMA),222 2nd Street, , San Francisco,94105,new,Coffee,0,$$
+4c3e25a7ae,Luke's Lobster  (92 2nd St),92 2nd St, , San Francisco,94105,100+,"Healthy, Seafood, Rolls, Exclusive",0,$$
+4d4a069b78,Helmand Palace,2424 Van Ness Ave, , San Francisco,94109,new,"Afghan, Mediterranean, Healthy, Middle",0,$$
+4e5b711a1d,Udupi Palace - Berkeley,1903 University Ave, , San Francisco,94704,20,"Indian, Vegetarian",5,$$
+4f958b114a,Kitchen Of Alameda 点心,1727 Webster St, , San Francisco,94501,18,"Chinese, Asian",5,$$
+50c4cac13b,The Cantina,651 E Blithedale Ave, , San Francisco,94941,17,"Mexican, Family",5,$$
+51f81a0e41,Taste of the Himalayas,1700 Shattuck Ave, , San Francisco,94709,19,"Indian, Nepalese, Seafood, Group",5,$$
+520ceed56a,1428 Haight,1428 Haight St, , San Francisco,94117,new,Breakfast,0,$$
+52e988a650,E&O Kitchen and Bar,314 Sutter St, , San Francisco,94108,new,"Asian, Salads, Sandwich, Healthy, Alcohol",0,$$
+5591017999,Kitava,2011 Mission St, , San Francisco,94110,100+,"American, Gluten",0,$$
+57331cc3c7,Saap Ver Thai Restaurant,88 Division St, , San Francisco,94103,47,"Thai, Family",5,$$
+5736ba199a,OG Cheesesteaks (475 6th St),475 6th St, , San Francisco,94103,new,"Cheesesteak, Sandwiches, American, American",0,$$
+57493d1bf5,Pharaohs Egyptian Restaurant,608 Geary Street, , San Francisco,94102,32,"Mediterranean, Halal, Egyptian, American, New",5,$$
+576cb10e3a,Super Pan,5344 Geary Blvd, , San Francisco,94121,new,Asian,0,$$
+57780e54e0,Neecha Thai,3236 Grand Ave, , San Francisco,94610,28,"Thai, Asian, Vegetarian",5,$$
+591ef757b6,Vive La Tarte,4026 24th Street, , San Francisco,94114,45,Breakfast,5,$$
+59b58659b8,Molinari Delicatessen,373 Columbus Ave, , San Francisco,94133,69,"Italian, Comfort",5,$$
+59dec2f057,Lemongrass Thai Cuisine,2348 Polk St, , San Francisco,94109,100+,"Thai, Noodles, Asian, Asian",0,$$
+5a430ec563,Bluestone Lane Café - Avery Lane,488 Folsom Street, , San Francisco,94105,69,"Healthy, Coffee",5,$$
+5a4c6af248,New Delhi Restaurant,160 Ellis St, , San Francisco,94102,new,"Indian, Comfort",0,$$
+5b75c5b3cd,"Stirred, Not Shaken Cookies (60 Morris St)",60 Morris St, , San Francisco,94107,new,"Bakery, Desserts, American",0,$$
+5c64911dd7,Bao,590 Valencia Street, , San Francisco,94110,39,"Chinese, Asian, Eats",5,$$
+5cdf9c7851,Famous Dave's (2690 5th St),2690 5th St, , San Francisco,94501,49,"American, B, B, Q",4,$$
+5d7c743713,Thai Spice Restaurant,1730 Polk St, , San Francisco,94109,100+,"Thai, Noodles, Seafood, Family",0,$$
+5dc006d05a,Oasis Food Market,3045 Telegraph Ave, , San Francisco,94609,new,Middle,0,$$
+5e44051917,Mo'z Cafe Inc.,36 5th Street, , San Francisco,94103,new,Breakfast,0,$$
+5f73da0702,Tommy's Joynt,1101 Geary Blvd, , San Francisco,94109,33,"American, Sandwich, Family",5,$$
+5f7445e09f,Burma Classic (90 Charter Oak Ave),90-92 Charter Oak Ave, , San Francisco,94124,27,"Burmese, Asian",5,$$
+613bbc76b9,Boho Petite,2146 Chestnut Street, , San Francisco,94123,new,"Pastry, Sandwiches, Desserts, French, Breakfast",0,$$
+61648e2da0,Amber India Restaurant - SF,25 Yerba Buena Ln, , San Francisco,94103,54,"Indian, Family",5,$$
+62ee72881a,Golden Era Vegan Restaurant,395 Golden Gate Ave, , San Francisco,94102,97,"Vietnamese, Pho, Asian, Vegetarian, Asian",5,$$
+63aeb383cc,Noor Indian Fusion Kitchen (5333 Adeline St),5333 Adeline Street, , San Francisco,94608,100+,"Indian, Vegan, Vegetarian, Halal, Group",0,$$
+64df4eb2b7,Sunrise Deli - Irving,2115 Irving St, , San Francisco,94122,new,"Deli, Mediterranean",0,$$
+65c374e41a,ZZAN Korean Restaurant,643 Post St, , San Francisco,94102,100+,"Korean, Asian, Family",0,$$
+67a64465d2,Cafe Eritea D'Afrique,4069 Telegraph Ave, , San Francisco,94609,new,"African, Ethiopian",0,$$
+6817baf737,Anton's Pizza,1196 Folsom St, , San Francisco,94103,77,Pizza,5,$$
+68fa89049b,Namaste Pizza - Oakland,5942 San Pablo Ave, , San Francisco,94608,31,"Indian, Pizza, Asian",5,$$
+6b34717940,Prabh Indian Kitchen,24 Sunnyside Ave, , San Francisco,94941,57,"Indian, Vegetarian",5,$$
+6b729d62a4,Asian Box (Chestnut St.),2031 Chestnut St, , San Francisco,94123,79,Asian,5,$$
+6c1036502c,Japanese Curry House,1117 Fillmore St, , San Francisco,94115,new,"Japanese, Japanese",0,$$
+6e33abcc78,Buffalo Wild Wings (5B Serramonte Center Serramonte Center),5b Serramonte Center Serramonte Center, , San Francisco,94015,55,"American, Comfort",5,$$
+6e6bce228c,Café de Casa,1165 Airport Blvd, , San Francisco,94080,23,"Brazilian, Açaí, Coffee",5,$$
+6ebfdbf971,Stick & Steam,350 Adrian Rd, , San Francisco,94030,26,"Chinese, Family",5,$$
+7028d778c3,Bolare Trattoria & Pizzeria,761 Hickey Boulevard, , San Francisco,94044,new,"Pizza, Italian, Pasta",0,$$
+70607e452e,Lunchbreak,5333 Adeline St, , San Francisco,94608,new,"Indian, Chicken, Diner",0,$$
+7066d1e69d,Lers Ros Thai - Hayes,307 Hayes St, , San Francisco,94102,100+,"Thai, Vegetarian",0,$$
+7.20E+16,Monk's Kettle,3141 16th St, , San Francisco,94110,37,"American, Bar",5,$$
+73b9901b8a,Squat & Gobble - West Portal,1 W Portal Ave, , San Francisco,94127,53,Breakfast,5,$$
+75c3ab38f2,Jim's Coffee Shop,2333 Lincoln Ave, , San Francisco,94501,36,"American, Breakfast",5,$$
+762b478164,Papalote Mexican Grill (Fulton),1777 Fulton St, , San Francisco,94117,100+,"Mexican, Breakfast",0,$$
+770c328979,The Epicurean Trader - Cortland,401 Cortland Ave, , San Francisco,94110,new,"American, Sandwich, Breakfast",0,$$
+78ad558c28,Nancy Silverton’s - Nancy’s Fancy Gelato (Charter Oak),90 Charter Oak Ave, , San Francisco,94124,new,"American, Comfort",0,$$
+7999629b66,What The Cluck (Haight),1782 Haight St, , San Francisco,94117,22,"Asian, Thai, Chicken, Rice",5,$$
+7b837d7578,Ladle & Leaf,513 Parnassus Ave, , San Francisco,94143,new,"Salads, Sandwich, Healthy",0,$$
+7c6a7fa4e4,Ike's Japanese Kitchen (San Francisco),800 Van Ness Ave, , San Francisco,94109,new,"Sushi, Family",0,$$
+7cd13ebfd1,Good Gais,2723 Oakdale Ave, , San Francisco,94124,new,"Asian, Asian",0,$$
+7f26dabc47,Acai Aura (500 Larkin St),500 Larkin St, , San Francisco,94102,31,Breakfast,5,$$
+835048bbf1,(DUP) Muthu's Curry - Dempsey,1455 Market Street, , San Francisco,94103,new,"Indian, Curry, Naan",0,$$
+83a80a2c45,Tigerlily Berkeley,1513 Shattuck Ave, , San Francisco,94709,new,Breakfast,0,$$
+84dd847146,Panda Express (1480 Fillmore St.),1480 Fillmore St., , San Francisco,94115,100+,"Chinese, Asian, Group",0,$$
+84fa4fd1e3,Pollo Campero (155 Jefferson St),155 Jefferson Street, , San Francisco,94133,new,Family,0,$$
+85b5834636,iThai Bangkok Street Food,720 Post St, , San Francisco,94109,100+,"Thai, Noodles, Salads, Desserts, Exclusive",0,$$
+85bb8d5fce,Indian Summer,320 3rd St, , San Francisco,94107,new,"Indian, Asian, Asian",0,$$
+87705d87ca,Artesano - Healthy Latin Food - Dogpatch,2335 3rd Street, , San Francisco,94107,new,"Mexican, Peruvian, Cuban, Spanish, Sandwich",0,$$
+88e71b1980,Sweet Glory,721 Larkin Street, , San Francisco,94109,14,Coffee,5,$$
+89d6595c9e,Patxi's Pizza - Hayes Valley,511 Hayes St, , San Francisco,94102,76,"Pizza, Salads, Italian",5,$$
+89f4d6e992,Jake's Steaks (Valencia),581 Valencia St, , San Francisco,94110,68,"Burgers, Sandwiches, American",5,$$
+8a68ae942a,Baiano Pizzeria (Gough St),100 Gough St, , San Francisco,94102,new,"Italian, Pizza, Pasta",0,$$
+8b873b3462,The Crafty Fox Ale House,1700 Mission St, , San Francisco,94103,new,Traditional,0,$$
+8bc20183cd,SAJJ Mediterranean (SF SoMa),636 2nd St, , San Francisco,94107,33,"Mediterranean, Family",5,$$
+8d2dc0183b,Everest Kitchen,1150 Solano Ave, , San Francisco,94706,26,"Indian, Gluten",5,$$
+8d90ec1b0f,House of Thai (901 Larkin St),901 Larkin St, , San Francisco,94109,100+,"Thai, Vegetarian",0,$$
+8dcf4b3229,Chimney - The Biryani House,5333 Adeline St, , San Francisco,94608,new,"Healthy, Indian, Comfort",0,$$
+9075bfb172,Moghlai Kitchen,642 Irving Street, , San Francisco,94122,new,"Indian, Vegetarian, Asian",0,$$
+912b84d6f0,Mel's Drive-in (Kitchen),1050 Van Ness Ave, , San Francisco,94109,11,"American, Burgers, Diner",5,$$
+91476a301e,Donairo's Pizza,6905 Geary Blvd, , San Francisco,94121,14,"Pizza, Italian, Pasta, American",5,$$
+9194bb2780,Brooklyn Calzones (1438 Broadway),1438 Broadway, , San Francisco,94612,new,"Italian, Pizza",0,$$
+9296542c58,Feng Ze Yuan Restaurant,4401 Balboa St, , San Francisco,94121,23,Asian,5,$$
+932e5fdb89,The Coffee Mill & Bakery,3363 Grand Ave, , San Francisco,94610,60,Breakfast,4,$$
+93961ae856,Sushi Rapture,1400 Leavenworth St, , San Francisco,94109,new,"Seafood, Sushi, Japanese",0,$$
+93ade6e9e7,The Italian Homemade Company - Hayes Valley,1 Franklin Street, , San Francisco,94102,96,"Alcohol, Italian, Pasta",5,$$
+93c4bb6216,King of Thai Noodle - Union Square,184 O'Farrell St, , San Francisco,94102,88,"Thai, Vegetarian",5,$$
+93f9b2347f,Z & Y Peking Duck,606 Jackson Street, , San Francisco,94133,21,"Chinese, Family",4,$$
+94a4d9e7d6,Sutter Pub,700 Sutter St, , San Francisco,94109,29,"Burgers, Bar",5,$$
+94c8d3e922,Tomate Cafe,2265 Fifth Street, , San Francisco,94710,53,Breakfast,5,$$
+95cd71f847,Burmese Kitchen,3815 Geary Blvd, , San Francisco,94118,11,"Burmese, Vegetarian",4,$$
+96dafb1cd3,Precita Park Cafe,500 Precita Ave, , San Francisco,94110,20,Breakfast,5,$$
+96ec7006c8,Taqueria Leon,551 San Mateo Ave, , San Francisco,94066,new,"Mexican, Group",0,$$
+975941c0fe,City Center Pizzeria,500 12th St ,131, San Francisco,94612,new,"Pizza, Pasta, Wings, Desserts",0,$$
+977b2afbc5,INDIAN PIZZA AND PASTA HOUSE,60 Morris St, , San Francisco,94103,new,"Pizza, Indian, Pasta, Indian",0,$$
+9810492ea1,Makli Restaurant,290 Sanchez St, , San Francisco,94114,14,"Chinese, Alcohol",5,$$
+9983d134e8,High Tech Burrito - Mill Valley,800 Redwood Hwy,118, San Francisco,94941,51,"Mexican, Family",5,$$
+9a62a82340,Escape From New York Pizza - Haight,1737 Haight St, , San Francisco,94117,43,"Pizza, Italian, Wings, Salads, Group",5,$$
+9a6cf4fe4d,Wise Sons Jewish Delicatessen - Hayes Valley,537 Octavia Street, , San Francisco,94102,49,"Deli, Sandwich, Breakfast",5,$$
+9aae10277d,Lahore Karahi,3083 16th Street, , San Francisco,94103,new,"Halal, Pakistani, Indian, Vegetarian",0,$$
+9ab4ca0b8a,Arabian Nights,2345 Mission St, , San Francisco,94110,19,"Mediterranean, Family",5,$$
+9c6fa0beff,Turo Cafe & Grill,2275 San Jose Avenue, , San Francisco,94112,100+,"Filipino, South",0,$$
+9c76b664de,Copas,2223 Market Street, , San Francisco,94114,new,Mexican,0,$$
+9c8ad113c8,Himalayan Curry House,6112 La Salle Ave, , San Francisco,94611,40,"Himalayan, Nepalese, Indian, Family",5,$$
+9d51a2bfea,Biryani Tika Kabab,328 14th St, , San Francisco,94612,33,"Pakistani, Indian, Halal",5,$$
+9d8bef2336,Capurro's,498 Jefferson St, , San Francisco,94109,new,"Seafood, American",0,$$
+9fcad55478,Vui Ve Eatery,2353 E 12th St, , San Francisco,94601,new,"Vietnamese, Healthy, Bowls",0,$$
+a0362e1e15,Rojbas Grill,1901 University Ave, , San Francisco,94704,new,"Sandwich, Mediterranean, Salads, Healthy",0,$$
+a0eb9521e8,Zaoh Restaurant,1555 Mission St, , San Francisco,94103,15,"Sushi, Japanese, Alcohol, Family",5,$$
+a2281ebfcd,Parrot Pizzeria & Rotisserie,696 Sutter St, , San Francisco,94108,new,"Pizza, Sandwich, Alcohol, Wings, Comfort",0,$$
+a33c47b80a,MIXT - Valencia,901 Valencia Street, , San Francisco,94110,100+,"Salads, Vegetarian",0,$$
+a39d92cd73,Freshroll (220 Bush Street),220 Bush St, , San Francisco,94104,11,"Sandwich, Vietnamese, Vegetarian",5,$$
+a3faea163e,Gyro Xpress,499 Castro St, , San Francisco,94114,47,"Mediterranean, Gluten",5,$$
+a451e203b4,Oye Managua Nicaraguan,3385 Mission St, , San Francisco,94110,45,Family,4,$$
+a709266bd4,Cafe Bawarchi,1375 9th Avenue, , San Francisco,94122,new,"Indian, Vegetarian, Asian",0,$$
+a7476b9ad2,Annapurna Restaurant & Bar,948 Clay St, , San Francisco,94607,26,"Nepalese, Indian, Himalayan, Family",4,$$
+a8da7dd08c,Cheese Steak Shop - Oakland,3308 Lakeshore Ave, , San Francisco,94610,54,"American, Sandwich, Vegetarian",5,$$
+a8e5c398c2,Himalayan Pizza and Momo,288 Golden Gate Ave, , San Francisco,94102,21,"Nepalese, Group",5,$$
+a97ead84eb,WestCoast Bowls - Corte Madera,133 Corte Madera Town Center, , San Francisco,94925,13,Asian,5,$$
+aae8a2b097,Oz Pizza,508 Castro St, , San Francisco,94114,new,"Italian, Pizza, Alcohol",0,$$
+aaf9fe2079,Thai Idea Vegetarian,710 Polk St, , San Francisco,94109,91,"Thai, Vegetarian, Noodles, Healthy, Family",5,$$
+ab4a7478a4,Burma Love- Valencia,211 Valencia St, , San Francisco,94103,100+,"Burmese, Salads, Vegetarian",0,$$
+ab655f81d7,Alfred Coffee San Francisco,33 Turk St., , San Francisco,94102,34,Coffee,5,$$
+ab7a130e22,Marina Deli,2299 Chestnut St, , San Francisco,94123,new,"Salads, Sandwich, Comfort",0,$$
+ace13a0a22,Oxbridge Deli,790 Silver Ave, , San Francisco,94134,38,"Deli, Sandwich, Desserts, Group",5,$$
+acf5976caa,Lapats Thai Noodles Bar,601 Larkin St, , San Francisco,94109,56,"Thai, Family",5,$$
+ad72ef7e8b,Pizza Amigos,5000 Adeline St, , San Francisco,94608,79,"Italian, Pizza, Alcohol",4,$$
+ae0625210a,Palm House (2032 Union),2032 Union St, , San Francisco,94123,new,"American, Caribbean, Hawaiian",0,$$
+ae3d84f019,Max's Opera Cafe,601 Van Ness Ave, , San Francisco,94102,86,"American, Sandwich, Salads, Desserts, Alcohol, Family",5,$$
+ae6d89e822,Wingstop (5045 Juniper Serra Blvd),5045 Junipero Serra Boulevard, , San Francisco,94014,96,"Wings, Chicken, American",5,$$
+b0df615604,Chennai Kings (Fisherman's Wharf),418 Beach St, , San Francisco,94133,new,Indian,0,$$
+b14aca5639,Rosamunde Sausage Grill - Mission,2832 Mission St, , San Francisco,94110,30,"German, Healthy, Family",5,$$
+b4c565a2ac,Enjoy Vegetarian Restaurant (Kearny),839 Kearny St, , San Francisco,94108,11,"Vegan, Vegetarian, Chinese, Healthy",5,$$
+b56190eaf6,Lanesplitter Pizza & Pub (Emeryville),3645 Ca-123, , San Francisco,94608,47,"Pizza, Italian, American, Salads",5,$$
+b68084eb2d,Pressed Juicery - Noe Valley,3901 24th Street, , San Francisco,94114,new,Juice,0,$$
+b835878ab2,Wham! Bam! Burrito! (2380 san bruno ave),2380 San Bruno Ave, , San Francisco,94134,new,"Mexican, Burritos, Bowls",0,$$
+b8c8229d77,Sushinista,2235 Milvia St, , San Francisco,94704,new,"Sushi, Japanese, Salads, Alcohol, Healthy",0,$$
+b926045b15,Home Plate,2150 Lombard St, , San Francisco,94123,60,Breakfast,5,$$
+b92fb80ed1,Freddie Parker's Pasta + Salad Shop - Lombard,2200 Lombard St, , San Francisco,94123,new,"Italian, Wings, Pasta",0,$$
+ba2ac9e110,The Italian Recipe,826 Van Ness Ave, , San Francisco,94109,new,Italian,0,$$
+ba8005c551,Big Lantern,3170 16th St, , San Francisco,94103,100+,"Chinese, Vegetarian",0,$$
+bb11fc5ced,Toomie's Thai,1433 Park St, , San Francisco,94501,49,"Thai, Family",5,$$
+bd1124d541,Wok & Go,2700 24th St, , San Francisco,94110,29,"Chinese, Asian, Family",5,$$
+be8d9ae3ac,Opa Cafe,2401 Post St, , San Francisco,94115,new,Mediterranean,0,$$
+bf7aca4b42,Hollywood Cafe,530 North Point St, , San Francisco,94133,new,Breakfast,0,$$
+c004b79bdb,Cafe Romanat,462 Santa Clara Ave, , San Francisco,94610,17,"Ethiopian, Vegan",5,$$
+c0e9fc9481,Paradise Park Cafe,6334 San Pablo Ave, , San Francisco,94608,18,"Cafe, Breakfast",5,$$
+c152b02c8a,The Sausage Factory,517 Castro St, , San Francisco,94114,18,"Italian, Pizza",5,$$
+c2bc35e0ac,5 Star Food & Liquor,812 Linden Ave, , San Francisco,94080,new,"Alcohol, Wine",0,$$
+c3308d39e7,Sanppo Restaurant,1702 Post St, , San Francisco,94115,100+,"Japanese, Sushi, Family",0,$$
+c3d1a5f428,BJ's Restaurant & Brewhouse (San Bruno #440),1140 El Camino Real , Suite 271, San Francisco,94066,58,"American, Burgers, Pizza, Family",4,$$
+c4a1e328dd,Golden horse restaurant,1060 Hyde St, , San Francisco,94109,16,Chinese,5,$$
+c4ec58ba1e,Pacific Catch - San Mateo,243 S B St, , San Francisco,94401,69,"Seafood, Alcohol",5,$$
+c516df38dd,Avotoasty,1796 Union Street, , San Francisco,94123,32,"American, Exclusive",5,$$
+c546405c39,Messob,4301 Piedmont Ave, , San Francisco,94611,17,Black,5,$$
+c5f12ecac0,Dog Haus (1407 San Pablo),1407 San Pablo Avenue, , San Francisco,94702,100+,"American, Fast",0,$$
+c6e37cbabd,Genji Sushi (Castro),2001 Market Street, , San Francisco,94114,new,"Asian, Japanese, Sushi, Healthy, Poke",0,$$
+c74180bd4a,Oasis Grill - Drumm St,91 Drumm St, , San Francisco,94111,25,"Mediterranean, Vegan",5,$$
+c8e194ac80,a Mano,450 Hayes Street, , San Francisco,94102,21,"Pizza, Italian, Pasta, Comfort",5,$$
+c90fb095d3,Jamba Juice (340 Westlake Center),340 Westlake Center, , San Francisco,94015,19,Juice,5,$$
+c960cb38fa,Cracked & Battered,1434 18th St, , San Francisco,94107,56,Breakfast,5,$$
+c9f6c53312,Mama MoMo's,493 Pine Street, , San Francisco,94104,new,"Indian, Vegetarian, Asian",0,$$
+cae32c57fe,KoJa Kitchen - Berkeley,2395 Telegraph Ave, , San Francisco,94704,40,"Korean, Japanese, Asian",5,$$
+cbbd088bef,South Indian Dhaba,1375 9th Avenue, , San Francisco,94122,new,"Indian, Vegetarian, Asian",0,$$
+cdb6b90645,Noeteca,1551 Dolores St, , San Francisco,94110,new,"Pizza, Breakfast",0,$$
+ce915c76aa,Tandoori bowls,5333 Adeline St, , San Francisco,94608,new,"Indian, Healthy, Halal",0,$$
+cf482a8025,Wing Boss (CA-6017) 590 Van Ness Ave,590 Van Ness Avenue, , San Francisco,94102,new,"Wings, American, Chicken",0,$$
+d033b7fca1,Halal Gluten Free Pizza,1338 Polk Street, , San Francisco,94109,new,"Halal, Pizza, Cheesesteak",0,$$
+d1ae1f2d21,Al’s Super Cafe,3286 Mission St, , San Francisco,94110,new,Traditional,0,$$
+d1fe821a57,Persian Gyro Bar,826 Van Ness Avenue, , San Francisco,94109,new,"Halal, Chicken, Middle",0,$$
+d4120e696f,Mehak Indian Cuisine,2449 Sacramento St, , San Francisco,94702,22,"Indian, Family",5,$$
+d4991bb9f3,Woo Hao Chinese Restaurant,427 Gellert Boulevard, , San Francisco,94015,new,"Chinese, Asian, Dim",0,$$
+d4c700a4b4,Hall of Flame Burgers,73 Cambon Dr, , San Francisco,94132,63,"American, Burgers, Vegan",5,$$
+d58aed10bb,Baan Yaai,2274 Lombard St, , San Francisco,94123,15,"Thai, Street",5,$$
+d65dd80442,Mr Pizza Man (San Francisco),2680 22nd St, , San Francisco,94110,17,"Pizza, Family",5,$$
+d695425279,Pork Store Cafe (16th St),3122 16th St, , San Francisco,94103,60,"B, B, Q, Breakfast",5,$$
+d78c9b8eb3,Proposition Chicken (Oakland),3260 Lakeshore Ave, , San Francisco,94610,100+,"Chicken, Wings, Comfort",0,$$
+daedbbfd72,Raw Sugar Factory,525 Valencia St, , San Francisco,94110,new,Breakfast,0,$$
+dd6b95b6aa,Park Gyros,1201 9th Ave, , San Francisco,94122,70,Middle,5,$$
+e096092b28,Lynn and Lu's Escapade Cafe,3353 Grand Ave, , San Francisco,94610,20,Breakfast,5,$$
+e0b7afdf2a,Halal D'Grill,1375 9th Avenue, , San Francisco,94122,new,"Indian, Vegetarian, Asian",0,$$
+e13ba5d649,Blue Pea - Thai Bistro,525 Valencia St, , San Francisco,94110,new,Asian,0,$$
+e1913f962d,Ole Ole Burrito Express (Telegraph),2435 Telegraph Ave, , San Francisco,94612,100+,"Mexican, Latin",0,$$
+e1ed0a4d4f,Kyoto Ramen,3050 El Cerrito Plz, , San Francisco,94530,47,Japanese,5,$$
+e21724eef9,Cultivar,2379 Chestnut St, , San Francisco,94123,new,"American, Steak, Seafood, Salads, Breakfast",0,$$
+e29d845b94,La Torta Gorda,2833 24th St, , San Francisco,94110,34,Mexican,5,$$
+e2a1e64abe,Masala Dosa,1375 9th Ave, , San Francisco,94122,14,"Indian, Group",4,$$
+e605935377,Urban Curry,1109 Fillmore Street, , San Francisco,94115,82,Black,5,$$
+e78479b909,Old Jerusalem Restaurant,2966 Mission St, , San Francisco,94110,58,"Mediterranean, Sandwich, Vegetarian",5,$$
+e82aa59f5b,Uva Enoteca,568 Haight St, , San Francisco,94117,new,"Italian, Pizza, Pasta, Family",0,$$
+e85f5447f8,Cesario's,601 Sutter St, , San Francisco,94102,new,"Italian, Pasta",0,$$
+e95778518c,Spices Noodle House,369 12th St, , San Francisco,94607,66,"Chinese, Asian, Asian",5,$$
+ea3a41d7e8,Doner King,642 Irving Street, , San Francisco,94122,new,"Indian, Vegetarian, Asian",0,$$
+ea4b34803c,Stan's Burger Bar,798 Eddy St, , San Francisco,94109,new,"American, Burgers, Healthy",0,$$
+ea574c191a,Miss Saigon - Oakland,3345 Grand Ave, , San Francisco,94610,25,"Vietnamese, Asian, Alcohol, Family",5,$$
+eabbe69cda,PING YANG THAI GRILL AND DESSERT,955 Larkin St, , San Francisco,94109,16,"Thai, Noodles, Salads, Healthy",5,$$
+eb4851239a,The Plant Cafe Organic (Dogpatch),2335 3rd St, , San Francisco,94107,32,Breakfast,5,$$
+eba2335e45,The Little Chihuahua - Lower Haight,292 Divisadero Street, , San Francisco,94117,27,"Mexican, Latin",5,$$
+ebc2f095b0,Ippudo (San Francisco),18 Yerba Buena Lane, , San Francisco,94103,65,"Chinese, Asian, Group",5,$$
+ebc46f20bc,Caia's Cookies (90 Charter Oak Ave),90 Charter Oak Ave, , San Francisco,94124,new,"American, Bakery, Desserts",0,$$
+edfbf4268e,Butter Singh,60 Morris Street, , San Francisco,94107,11,"Indian, Asian",5,$$
+ee63eb27db,Enssaro Ethiopian Food,357a Grand Ave, , San Francisco,94610,45,"Ethiopian, Vegetarian",5,$$
+f043b89fbe,Rock Japanese Cuisine,614 Pine St, , San Francisco,94108,59,"Sushi, Japanese, Alcohol, Family",5,$$
+f17f30eb82,Carl's Jr. (899 Cherry Ave.),899 Cherry Ave, , San Francisco,94066,56,"Burgers, Fast",5,$$
+f219425b3c,Buckhorn Grill (SF Metreon),135 4th Street, , San Francisco,94103,35,"B, B, Q, American, Burgers, Sandwich",4,$$
+f2be2f168e,Spork,631 Broadway, , San Francisco,94133,new,"Thai, Breakfast",0,$$
+f2fa66f406,Om Vegan Indian Cuisine,5333 Adeline St, , San Francisco,94608,new,"Indian, Vegan, Indian",0,$$
+f3e11bfd9b,El Burrito Express 2,1812 Divisadero St, , San Francisco,94115,89,"Mexican, Group",5,$$
+f4dd597182,Indian Flavour,1375 9th Avenue, , San Francisco,94122,new,"Indian, Vegetarian, Asian",0,$$
+f50b789ee1,"Happy Mac, Pastries, and More (60 Morris St)",60 Morris St, , San Francisco,94107,new,"Healthy, Comfort",0,$$
+f60e0e74ec,That Batch (2353 E. 12th St.),2353 E. 12th St., , San Francisco,94601,new,"American, Comfort",0,$$
+f63db012b1,Pizzalicious,1210 Polk St, , San Francisco,94109,22,"Pizza, Italian, Sandwich",5,$$
+f7aa6e1da4,Scopo Divino,2800 California St,101, San Francisco,94115,new,Bar,0,$$
+f7d90cb020,North Beach Gyros,561 Columbus Ave, , San Francisco,94133,64,"Mediterranean, Vegan",5,$$
+f898faa786,De Afghanan Kabob House,321 Kearny Street, , San Francisco,94108,15,"Afghan, Middle",5,$$
+fc09bf56ea,Kasa Indian Eatery - Castro,4001 18th Street, , San Francisco,94114,28,"Vegetarian, Indian, Group",4,$$
+fd51d0fd84,Hibachi KO San Francisco,1737 Post Street, , San Francisco,94115,new,"Japanese, Sushi, Asian",0,$$
+fe08a6956c,Kitchen Sunnyside,31 Sunnyside Ave, , San Francisco,94941,21,Breakfast,5,$$
+fe27c558c1,Double Decker,465 Grove St, , San Francisco,94102,22,"Burgers, American, Family",5,$$
+ff2f10fef2,Thai House Express,599 Castro St, , San Francisco,94114,78,"Thai, Asian, Asian",5,$$
+fffb314ac2,Louder,620 O'Farrell St, , San Francisco,94109,new,"Thai, Vegetarian",0,$$
+03de328ae2,Francisca's,3047 Mission St,, San Francisco,94110,new,"Italian, Venezuelan",0,$$$
+0a9c6df3e4,McNamara's Steak and Chop House,7400 San Ramon Rd,, San Francisco,94568,new,"Seafood, American",0,$$$
+176eda244f,Norcina,3251 Pierce Street,, San Francisco,94123,new,"Italian, Pasta, Comfort",0,$$$
+1af007d9a5,Horatio's (60 Monarch Bay Drive),60 Monarch Bay Drive,, San Francisco,94577,17,"Seafood, Steak, Salads, Chicken, Pasta",5,$$$
+1c4a45efa8,Fleming’s Prime Steakhouse & Wine Bar (Walnut Creek),1685 Mt. Diablo Blvd.,, San Francisco,94596,13,"Steak, Salads, Family",4,$$$
+1cd0c83cf7,Pucquio,5337 College Ave,, San Francisco,94618,new,American,0,$$$
+210e086217,Rooftop Restaurant and Bar,1500 Mount Diablo Boulevard,, San Francisco,94596,new,"Salads, American, Comfort",0,$$$
+22c3c09d80,Kwality Ice Cream,6601 Dublin Blvd,, San Francisco,94568,new,Ice,0,$$$
+24ad079782,Porridge & Things,235 Broadway,, San Francisco,94030,27,"Chinese, Asian, Seafood, Family",5,$$$
+26428121d8,Earthbar - San Mateo,4 East 4th Avenue,, San Francisco,94401,new,"Healthy, Vegetarian, Salads",0,$$$
+2aabcce66a,Buckeye Roadhouse,15 Shoreline Hwy,, San Francisco,94965,19,"Steak, American, Burgers",5,$$$
+47bc1ae478,The Old Clam House,299 Bayshore Blvd,, San Francisco,94124,16,"Seafood, Southern, American, Pasta",5,$$$
+4ee8f0ab42,International Smoke (San Francisco),301 Mission Street,, San Francisco,94105,new,"American, Gourmet, Steak, Burgers, Seafood, Vegan",0,$$$
+4fe65de6fd,The Pawn Shop,993 Mission St,, San Francisco,94103,new,Spanish,0,$$$
+6c8f3691d1,The Caviar Co.,1954 Union St,, San Francisco,94123,new,"Seafood, American, Gourmet",0,$$$
+7173b57270,Kabuto Restaurant,5121 Geary Blvd,, San Francisco,94118,12,Pure,5,$$$
+750b247085,Roka Akor (San Francisco),801 Montgomery St,, San Francisco,94133,20,"Steak, Sushi, Japanese, Family",4,$$$
+76e1a926d5,L'Ottavo Ristorante,692 Sutter St San Francisco,, San Francisco,0,new,"Italian, Pasta, Comfort",0,$$$
+84d4ef3905,Diamonds Sports Bar,77 Hegenberger Rd,, San Francisco,94621,new,"Burgers, American, Sandwiches",0,$$$
+8c2fd63751,New York Pizza,1086 A St,, San Francisco,94541,new,"Pizza, Family",0,$$$
+91afa9859d,The Pasta Twins - 32 6th St,38 6th Street,, San Francisco,94103,new,"Italian, American, Pizza",0,$$$
+9211ebdda6,San Wang Restaurant,1682 Post St,, San Francisco,94115,new,"Chinese, Chicken, Seafood, Noodles",0,$$$
+938a0c4cde,Parkside Market,1600 Hayes Street,, San Francisco,94117,new,Alcohol,0,$$$
+a1d84fe615,luisa's Restaurant,759 Columbus Ave,, San Francisco,94133,new,"Pasta, Pizza, Diner",0,$$$
+a45fc4b783,Mountain Mike's Pizza (2100 4th St),2100 4th St,, San Francisco,94901,19,"Pizza, American, Salads, Family",5,$$$
+a6daa4b03f,Roz Ka Affaire (6th St),60 Morris St,, San Francisco,94107,new,"Healthy, Vegetarian, Indian, Comfort",0,$$$
+a80cb5571e,Hyde Street Seafood House,1509 Hyde St,, San Francisco,94109,new,"Seafood, Fish",0,$$$
+a872f7cf47,White Elephant Restaurant,146 Hazelwood Dr,, San Francisco,94080,100+,"Thai, Asian, South",0,$$$
+b221e2fd57,Sushi Hakko,2184 Union Street,, San Francisco,94123,new,"Sushi, Japanese, Asian, Alcohol",0,$$$
+b81b7e3370,Cantina Los Mayas,431 Balboa St,, San Francisco,94118,new,"Mexican, Tacos, Burritos, Yucatecan",0,$$$
+ba22a6ed21,We Knead Pizza,1500 Owens St,, San Francisco,94158,new,"Pizza, American, Italian",0,$$$
+c93f7b5139,Khamsa Moroccan,1503 15th St,, San Francisco,94103,new,"Moroccan, Chicken, Middle",0,$$$
+d57f1464d3,Prospect,300 Spear St,, San Francisco,94105,new,"American, Chicken, Sandwich",0,$$$
+e2278cb388,Taishoken,47 E 4th Ave,, San Francisco,94401,48,"Asian, Japanese, Desserts, Asian",5,$$$
+eed0e18c2d,Zen Bistro,420 Broadway,, San Francisco,94030,new,Japanese,0,$$$
+f22f701d30,Agrodolce Osteria,1730 Shattuck Ave,, San Francisco,94709,new,"Italian, Pasta, Comfort",0,$$$
+f29833ead9,Shewhat Cafe & Restaurant,6101 Shattuck Ave,, San Francisco,94609,new,African,0,$$$
+f51801a7c8,Massawa Restaurant,636 Ashbury St,, San Francisco,94117,new,"Indian, Vegetarian",0,$$$
+f62b1755b2,Trattoria da Vittorio (San Francisco),150 W Portal Ave,, San Francisco,94127,24,"Italian, Pizza, Pasta, Family",5,$$$
+95bbe45b73,Sushi Shio,206 Valencia Street,, San Francisco,94103,24,"Asian, Sushi, Japanese, Group",5,$$$$
+b46db7e365,Mastro's Steakhouse - 399 Geary Street,336 Mason St,, San Francisco,94102,new,"American, Steak, Seafood, Desserts",0,$$$$
+d83528f8b8,Sushi Sato Omakase,1122 Post Street,, San Francisco,94109,new,"Japanese, Sushi, Seafood",0,$$$$
+30ZNWGlvkrMxXn2fXUDSug,Ox &amp; Tiger,552 Jones St,,San Francisco,94102,94,"Filipino, Japanese",4.9,$$$$
+9yM20-7fj4LMrOO30nqkBw,L’Ardoise Bistro,151 Noe St,,San Francisco,94114,1428,"French, Wine Bars, Desserts",4.5,$$$$
+ATj-8RmOJln9UnCEuraEzw,Noodle in a Haystack,4601 Geary Blvd,,San Francisco,94118,81,"Ramen, New American",4.8,$$$$
+cCVR9W_L2rqexfKAjfBTzQ,Routier,2801 California St,,San Francisco,94115,171,French,4.4,$$$$
+hT72td0gX3rtgm0iGVlQ_w,7 Adams,1963 Sutter St,,San Francisco,94115,64,"American, Wine Bars",4.2,$$$$
+JFgEWw7Jfr89M5WmqzVXGA,Merchant Roots,1365 Fillmore St,,San Francisco,94115,88,New American,4.7,$$$$
+JoU4A0wItwpBr1s-pyiCxg,Sorrel ,3228 Sacramento St,,San Francisco,94115,350,"New American, Italian",4.1,$$$$
+KarBZT88nFrtDTd-rWkvFQ,Friends Only,1501 California St,,San Francisco,94109,24,Sushi Bars,4.8,$$$$
+kvFI8S8XuE0793DBR0wSbg,San Ho Won,2170 Bryant St,,San Francisco,94110,566,"Korean, Barbeque",4.6,$$$$
+LysKaLPCFOdsUnlJC48Trg,Gozu,201 Spear St,Ste 120,San Francisco,94105,130,"Japanese, Bars, Seafood",4.3,$$$$
+N2kNTSbEUkJbgME8dfhGOw,Miller &amp; Lux,700 Terry A Francois Blvd,,San Francisco,94158,331,"American, Steakhouses, Seafood",4.2,$$$$
+OC53zpcrjXVa7_9SAgLEPg,Anomaly SF,2600 Sutter St,,San Francisco,94115,170,New American,4.7,$$$$
+OcRSAkpOhnWHjV7X0FoM5Q,jū-ni,1335 Fulton St,Ste 101,San Francisco,94117,512,"Japanese, Sushi Bars",4.6,$$$$
+RYQBuRLmBs1K1zTOAHPoQQ,Niku Steakhouse,61 Division St,,San Francisco,94103,698,"Japanese, Steakhouses",4.4,$$$$
+sJrlDmxVymCJ6AMS1GzBrg,Ken,252 Divisadero St,,San Francisco,94117,84,"Japanese, Sushi Bars",5,$$$$
+WavvLdfdP6g8aZTtbBQHTw,Gary Danko,800 N Point St,,San Francisco,94109,5947,"New American, French, Wine Bars",4.5,$$$$
+xalJwUiV9oMDCHCc6kZhqg,SSAL,2226 Polk St,,San Francisco,94109,232,Korean,4.6,$$$$
+XVPiXV_TPivnr9szB5kc-A,Birdsong,1085 Mission St,,San Francisco,94103,423,New American,4.4,$$$$
+XZi5rsUdnXeDdhRdgsRVpw,Aphotic,816 Folsom St,,San Francisco,94107,277,"Cocktail Bars, Seafood",4.4,$$$$
+ZfMLpV7p3EvRv3Idpx89sQ,Spruce,3640 Sacramento St,,San Francisco,94118,2270,American,4.1,$$$$
+2FuVuO6uJUviM1QAawlAPA,Aceking BBQ,1820 Clement St,,San Francisco,94121,150,"Chinese, Barbeque, Noodles",4.2,$
+6woXHF4_h1EO4eZLtZbK-w,Yoma Cafe,1518 Irving St,,San Francisco,94122,139,"Japanese Curry, Sandwiches, Sushi Bars",4.6,$
+aINJgFdqCjILgZdsVttnug,Kingbob,645 Clay St,,San Francisco,94111,155,Korean,4.7,$
+D1-_5ff4aic1-7rLqzUd4g,Yamo,3406 18th St,,San Francisco,94110,2133,Burmese,3.8,$
+ejL_RHoWyyZBhoA9ImR9vg,apizza &amp; loving cup,2043 Fillmore St,,San Francisco,94115,273,"Pizza, Desserts, Ice Cream &amp; Frozen Yogurt",4.6,$
+HTVGqdt-9_j5J2U624l79Q,Picnix Bistro,3872 Sacramento St,,San Francisco,94118,136,"Vietnamese, Sandwiches, Coffee &amp; Tea",4.3,$
+i5MebjyPImY1geRRxooJbQ,Banh Mi Viet,518 Divisadero St,,San Francisco,94117,86,Vietnamese,4.6,$
+j0raH5mkRR3RiRadMR-lTw,Pixlcat Coffee,519 Clement St,,San Francisco,94118,80,"Coffee &amp; Tea, Breakfast &amp; Brunch, Bubble Tea",4.1,$
+luREw4YhfFuYiUdA0SECaw,Rossi’s Deli,426 Castro St,,San Francisco,94114,218,"Delis, Beer, Wine &amp; Spirits",4.4,$
+NsvzBa88kK7ZFsKnqc_-QA,b&amp;b - Banh Mi &amp; Boba,1634 Irving St,,San Francisco,94122,347,"Bubble Tea, Sandwiches",4,$
+o8mLw7SrcTPis4NcvLzsOw,Good Luck Dim Sum,736 Clement St,,San Francisco,94118,1919,"Dim Sum, Fast Food, Desserts",4,$
+oxorV9Xg8VO6a1HpNzAGnQ,JT Restaurant,953 Mission St,,San Francisco,94103,66,Filipino,4.5,$
+pD6Y5b42nn_qbYHcaT1A0Q,Amal's Deli,1416 Haight St,,San Francisco,94117,50,"Delis, Convenience Stores",4.8,$
+PTFxtXS47ZVRCdZIrEWvGw,Golden Boy Pizza,542 Green St,,San Francisco,94133,4390,"Pizza, Italian",4.4,$
+QxJvhjEIdwFGNRSiyv4ytA,Riji Cafe,1155 Taraval St,,San Francisco,94116,26,"Coffee &amp; Tea, Breakfast &amp; Brunch, Internet Cafes",4.8,$
+rMKaGJGgegTDK7WKCUgKvA,After Hours Ramen,3044 Taraval St,,San Francisco,94116,26,"Bubble Tea, Ramen",4.7,$
+SGRmnarrNuVEsAjYdEoA0w,El Farolito,2779 Mission St,,San Francisco,94110,5456,Mexican,4.2,$
+xIrCKSeHRJvNdxKkkluc3A,Dumpling Specialist,1119-1123 Taraval,,San Francisco,94116,267,"Dim Sum, Shanghainese, Taiwanese",4.4,$
+xpxqr2WJRbLaBakdUrlfTw,STIX,1353 Taraval St,,San Francisco,94116,373,"Hot Dogs, Bubble Tea, Korean",4.1,$
+ZD5-5Gu44WrcsYtw7qMgiw,Palmyra,700 Haight St,,San Francisco,94117,1016,"Mediterranean, Middle Eastern, Syrian",4.2,$
+0T1Kc6tUWaG3cPnyiD40Hw,Dalida,101 Montgomery St Main Post,Ste 100,San Francisco,94129,211,"Mediterranean, Turkish, Bars",4.5,$$$
+0wqsFH-Z_Chg3O6N-d0PAg,Fiorella - Sunset,1240 9th Ave,,San Francisco,94122,309,"Italian, Pizza, Cocktail Bars",4.1,$$$
+5Ok8ARq5ITYLoDuAIzchVQ,Besharam,1275 Minnesota St,,San Francisco,94107,496,"Indian, Vegetarian",3.8,$$$
+6Pbhkpqz-4ZNS_60lHvqjA,Gao Viet Kitchen &amp; Bar,1900 Irving St,,San Francisco,94122,461,"Cocktail Bars, Vietnamese, Seafood",4.2,$$$
+9w8ghr8PrAyMj75fEOsElA,Yakitori Edomasa,1581 Webster St,Ste 270,San Francisco,94115,110,Japanese,4,$$$
+bfA09fkdKIZhkwCi0_iYGg,Teakwood,399 Grove St,,San Francisco,94102,112,Burmese,4,$$$
+dLkFqri9JEM3CoeMjAah6w,Copra,1700 Fillmore St,,San Francisco,94115,389,Indian,4,$$$
+dMlsQsPU8Y_oiPYC5hHi2A,Frances,3870 17th St,,San Francisco,94114,1574,"New American, Wine Bars",4.3,$$$
+dTWMVRcMVC4zynbFQC7A2A,Seven Hills,1896 Hyde St,,San Francisco,94109,1360,"Italian, Wine Bars",4.5,$$$
+dY0Mc_PHH6nLENvWmVtwxQ,Daeho Kalbijjim &amp; Beef Soup,1620 Post St,,San Francisco,94115,2008,"Korean, Soup, Noodles",4.5,$$$
+GtKxIGU6LJu14UErdNulmQ,Original Joe's,601 Union St,,San Francisco,94133,2102,"Italian, Steakhouses, Breakfast &amp; Brunch",4.1,$$$
+H8VFFVTT0gLG70i2okdeOQ,Cantina Los Mayas,431 Balboa St,,San Francisco,94118,106,"Mexican, Wine Bars",4.8,$$$
+i_OkjtKWm02Upc-PlcUrrg,Firefly Restaurant,4288 24th St,,San Francisco,94114,1560,"New American, Desserts, Soup",4.2,$$$
+igwR5eEzfxFkL_56cG0jOw,Destapas,2708 24th St,,San Francisco,94110,143,"Spanish, Tapas Bars, Wine Bars",4.6,$$$
+QZQGRJZ4bZCmNoXjs3z1XQ,State Bird Provisions,1529 Fillmore St,,San Francisco,94115,3250,"Tapas/Small Plates, New American, Desserts",4.2,$$$
+s-secFAvHQQ-5QhMulr_ZA,Zajang Grill,852 Clement St,,San Francisco,94118,129,"Korean, Buffets, Barbeque",4.6,$$$
+sfqkkqFmmYGOT0PCbbD9ZQ,Pearl,6101 California St,,San Francisco,94121,492,"Italian, Seafood, Mediterranean",4.4,$$$
+ttarnopezxmp2ROB1N2PaA,Nopa,560 Divisadero St,,San Francisco,94117,5514,"New American, Desserts, Cocktail Bars",4.2,$$$
+ULQkfVJ6zHFWN9KQQCK0GA,Damansara,1781 Church St,,San Francisco,94131,97,Malaysian,3.8,$$$
+zkVm2lMNdKWfbE4Uo1tMeA,Abrazo,2000 Hyde St,,San Francisco,94109,196,"Spanish, New American, Seafood",4.5,$$$
+_hOVIgjVRl_HzvLaa65KJg,The Snug,2301 Fillmore St,,San Francisco,94115,439,"Cocktail Bars, New American",4,$$
+055dTcfz2AOAFPed_2KjEQ,Nopalito,306 Broderick St,,San Francisco,94117,2050,Mexican,3.8,$$
+2E9O-p-lp587aOMnpLepkQ,JIJIME,5524 Geary Blvd,,San Francisco,94121,608,"Korean, Asian Fusion, Ramen",4.3,$$
+2rOfaaXmIdRf2J0Qd5oyMg,Ollei,2127 Polk St,,San Francisco,94109,135,"Korean, Comfort Food, Asian Fusion",4.5,$$
+BI40rGhpngLNPacrjWpseQ,Dumpling Kitchen,1935 Taraval St,,San Francisco,94116,2143,Chinese,4.1,$$
+BjlVE7tTp1UCEttgkM1Big,Beit Rima,138 Church St,,San Francisco,94114,782,"Arabic, Mediterranean, Lebanese",4.5,$$
+d5752S_RDb26HxoL6O06eQ,Beit Rima,86 Carl St,,San Francisco,94117,339,"Arabic, Mediterranean, Lebanese",4.4,$$
+E2Ri3Uudb3ogKfWBJIIhRw,Lokma,1801 Clement St,,San Francisco,94121,799,"Mediterranean, Breakfast &amp; Brunch, Vegetarian",4.6,$$
+EQpVnmoC_itgVQaaAYKNtg,C.Q. Noodles,2121 Clement St,,San Francisco,94121,176,"Chinese, Noodles, Soup",4.5,$$
+f-m7-hyFzkf0HSEeQ2s-9A,Fog Harbor Fish House,39 Pier,Ste 202A,San Francisco,94133,10227,"Seafood, Wine Bars, Cocktail Bars",4.3,$$
+HHtpR0RslupSQ99GIIwW5A,Marufuku Ramen,1581 Webster St,Ste 235,San Francisco,94115,5057,Ramen,4.5,$$
+J7_-faNq_Ag9qTOlDn81Pw,Starbelly,3583 16th St,,San Francisco,94114,2339,"New American, Breakfast &amp; Brunch, Cocktail Bars",3.8,$$
+lUUQi1b2rV3glIn4t2I1Iw,Horsefeather,528 Divisidero St,,San Francisco,94117,588,"Cocktail Bars, New American",4,$$
+MnGeqFYFTsWjdWSvMyPO0w,Lavash,511 Irving St,,San Francisco,94122,1679,"Persian/Iranian, Wine Bars, Mediterranean",4.2,$$
+qfRZjzNqO3fRgEGqvGNY-A,Santeria,2251 Market St,,San Francisco,94114,321,"Mexican, Cocktail Bars",4.4,$$
+QueFVMcMlT-6aZFv2M47mg,Bottega,1132 Valencia St,,San Francisco,94110,1048,"Italian, Pasta Shops, Pizza",4.3,$$
+VtXe2cPprvvz84_x9zB8kA,Dynasty Dumpling ,2786 California St,,San Francisco,94115,104,"Dim Sum, Noodles",4.8,$$
+x2djtavZIsv84ZKnz_vRMA,Beretta Divisadero,661 Divisadero St,,San Francisco,94117,496,"Italian, Pizza, Breakfast &amp; Brunch",4.2,$$
+XAYwAF_83becwNnSJDFkpA,Dumpling House,335 Noe St,,San Francisco,94114,505,"Dim Sum, Asian Fusion",4.3,$$
+ZSzXw0NgJTyOzcHwKY5eMA,Blind Butcher,4058 18th St,,San Francisco,94114,339,"New American, Wine Bars",4,$$
